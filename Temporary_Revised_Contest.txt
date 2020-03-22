@@ -37,6 +37,19 @@ Tansanee(Sinnoh)/Amara(Ransei)/Autumn(Johto)
 
 37(11),GoC/38(9),GoC/37(9),GoC
 
+Natividad/Nina
+
+18(0)-20(5),Hoenn(W)/18(1)-20(6),Hoenn(W)
+20(7)-23(0),Kanto(W)/20(8)-23(1),Kanto(W)
+23(4)-25(9),Kalos(W,Nina)/23(4)-25(9)
+,Kalos(R.U,Natividad)
+26(0)-28(5),Unova(R.U,Nina)/26(0)-28(5),Unova(W,Natividad)
+28(8)-31(1),Sinnoh(W,Nina)/28(8)-31(1),Sinnoh(R.U,Natividad)
+31(4)-33(9),Johto(R.U,Nina)/31(4)-33(9),Johto(W,Natividad)
+34(0)-35(5),Ransei(W)/34(1)-35(6),Ransei(W)
+35(8)-37(1),Pasio(W)/35(9)-37(2),Pasio(W)
+
+37(7),GoC/37(8),GoC
 
 Jerome
 
