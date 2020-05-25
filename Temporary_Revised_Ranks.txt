@@ -576,7 +576,7 @@ Prue(Sinnoh)/Glimmer(Sinnoh)
 17(9)-20(5),Johto(W)/17(10)-20(6),Hoenn(W)
 20(7)-21(7),Sinnoh Frontier(W)/20(11)-23(7),Kalos(W)
 21(10)-24(6),Kalos(W)/23(10)-26(6),Kanto(W)
-24(10)-27(6),Kanto(W)/26(9)-29(5),Sinnoh(W,Ojasa)
+24(10)-27(6),Kanto(W)/26(9)-29(5),Sinnoh(W,Jirah)
 27(9)-30(5),Hoenn(W,Dillon)/29(8)-32(4),Johto(R.U,Bianca)
 30(11)-33(7),Sinnoh(R.U,Frantz)/32(6)-33(6),Sinnoh Frontier(W)
 33(8)-36(4),Unova(*)/33(8)-36(4),Unova(*)
@@ -585,7 +585,7 @@ Prue(Sinnoh)/Glimmer(Sinnoh)
 
 41(8),HoF/41(7),HoF
 
-Dillon(Johto)/Ojasa(Hoenn)
+Dillon(Johto)/Jirah(Hoenn)
 
 15(6)-18(2),Sinnoh(W)/15(7)-18(3),Sinnoh(W)
 18(4)-20(0),Ransei(W)/18(5)-20(1),Ransei(W)
@@ -603,7 +603,7 @@ Visola(Johto)/Logan(Hoenn)
 
 17(8)-20(4),Hoenn(W)/17(8)-19(4),Pasio(W)
 20(7)-22(3),Pasio(W)/19(5)-22(1),Unova(W)
-22(6)-25(0),Unova(W)/22(3)-24(11),Kanto(R.U,Ojasa)
+22(6)-25(0),Unova(W)/22(3)-24(11),Kanto(R.U,Jirah)
 25(3)-27(11),Kalos(R.U,Dillon)/25(2)-27(10),Johto(W)
 28(0)-30(8),Johto(W)/27(11)-30(7),Hoenn(W)
 30(9)-33(5),Sinnoh(*)/30(9)-33(5),Sinnoh(*)
@@ -709,7 +709,7 @@ Sinnoh@14([Jason],Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimm
 
 Johto@12([Cynthia],{Dillon},Decha+Freya,Errapel+Ebtissam,Sosuke+Brishna,Payam+Visola,Montague+Madeline)
 
-Hoenn@12([Ivana],{Munro},Logan+Ojasa,Cheng+Sapphire,Alastair+Brooke,Deontay+Drizzle,Gabriel,Mateo)
+Hoenn@12([Ivana],{Munro},Logan+Jirah,Cheng+Sapphire,Alastair+Brooke,Deontay+Drizzle,Gabriel,Mateo)
 
 Pasio@6([Wendy],{Unam}+Aravi,Titan,Laura,Katya)
 
@@ -732,7 +732,7 @@ Dillon,Kulap,Blaze,Toshib,Cynthia
 
 Pasio(Genkai) :
 
-Ojasa,Biming,Ivana,Trevor,Wendy
+Jirah,Biming,Ivana,Trevor,Wendy
 
 Johto(Blossom,Genkai) :
 
