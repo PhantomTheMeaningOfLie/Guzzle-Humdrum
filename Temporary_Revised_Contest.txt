@@ -1,17 +1,31 @@
-Chongark(Unova)/Drew(Hoenn)
+Yagmur(Kanto)
 
-22(4)-24(9),Kanto(W)/24(10)-27(3),Hoenn(Q)
-25(0)-27(5),Kalos(W,Jerome)/27(6)-28(11),Ransei(W)29(4)-30(9),Pasio(W,Chongark)
-27(8)-29(1),Ransei(R.U,Gou)/29(1)-30(6),Pasio(W)
-29(4)-30(9),Pasio(W)/31(0)-33(5),Unova(W,Chongark)
-31(0)-33(5),Unova(R.U,Drew)/33(8)-36(1),Sinnoh(R.U,Chongark)
-33(8)-36(1),Sinnoh(W,Drew)/36(6)-38(11),Kalos(W,Freesia)
-36(4)-38(9),Hoenn(W)/39(0)-41(5),Kanto(W)
-39(0)-41(5),Johto(W)/41(7)-44(0),Johto(W)
+17(7)-20(0),Kanto Contest(W,#Gus#)
+20(2)-22(7),Unova(Q)
+22(9)-25(2),Kalos(W)
+25(5)-27(10),Hoenn(W)
+28(1)-30(6),Johto(W)
+30(9)-32(2),Pasio(R.U,Gladys)
+32(5)-33(10),Ransei(W\D,Gladys)
+34(1)-36(6),Sinnoh(W\D,Gladys)
 
-41(11),GoC/44(6),GoC
+37(0),GoC
 
-Soledad(Kalos)/Natividad(Kalos)/Sarmad(Johto->Kanto)
+
+Chongark(Unova)/Drew(Hoenn)/May(Hoenn)
+
+22(6)-24(11),Kanto(W)/24(10)-27(3),Hoenn(Q)/24(11)-27(4),Hoenn(Q)
+25(2)-27(7),Kalos(W)/27(8)-29(1),Ransei(W\D,May)/27(8)-29(1),Ransei(W\D,Drew)
+27(9)-29(2),Ransei(W)/29(4)-31(9),Kalos(W\D,May)/29(4)-31(9),Kalos(W\D,Drew)
+29(3)-30(8),Pasio(W,Jerome)/31(11)-33(4),Pasio(W)/32(3)-33(8),Pasio(R.U,#Gus)
+30(11)-33(4),Hoenn(W)/33(7)-36(0),Unova(W,Chongark)/33(9)-36(2),Unova(W)
+33(7)-36(0),Unova(R.U,Drew)/36(3)-38(8),Sinnoh(R.U,Chongark)/36(4)-38(9),Sinnoh(W)
+36(3)-38(8),Sinnoh(W,Drew)/38(11)-41(4),Kanto(W\D,May)/38(11)-41(4),Kanto(W\D,Drew)
+38(11)-41(4),Johto(W)/41(5)-43(10),Johto(W\D,May)/41(5)-43(10),Johto(W\D,Drew)
+
+41(10),GoC/44(4),GoC/44(4),GoC
+
+Soledad(Kalos)/Natividad(Ransei)/Sarmad(Johto->Kanto)
 
 22(10)-25(3),Johto(W)/22(6)-24(11),Hoenn(W)/19(6)-21(11),Kanto(W)
 25(6)-27(11),Kalos(W)/25(2)-27(7),Unova(W)/22(6)-24(11),Johto(R.U,Freesia)
@@ -24,42 +38,125 @@ Soledad(Kalos)/Natividad(Kalos)/Sarmad(Johto->Kanto)
 
 43(8),GoC/43(8),GoC
 
-Thea(Kanto)/Amara(Sinnoh)/Autumn(Johto)
+Junia(Pasio)/Amara(Sinnoh)/Autumn(Johto)
 
 17(10)-20(3),Sinnoh(W)/17(6)-19(11),Sinnoh(W)/17(7)-20(0),Sinnoh(W)
 20(6)-21(11),Pasio(R.U,Freesia)/20(2)-22(7),Unova(W)/20(3)-22(8),Unova(W)
 22(6)-24(11),Unova(W)/23(10)-25(3),Pasio(W)/23(10)-25(3),Ransei(W)
-25(6)-27(11),Johto(W,Amara)/25(6)-27(11),Johto(R.U,Thea)/25(6)-27(11),Hoenn(R.U,Freesia)
-28(0)-30(5),Kalos(R.U,Autumn)/28(6)-29(11),Ransei(R.U,Freesia)/28(0)-30(5),Kalos(W,Thea)
+25(6)-27(11),Johto(W,Amara)/25(6)-27(11),Johto(R.U,Junia)/25(6)-27(11),Hoenn(R.U,Freesia)
+28(0)-30(5),Kalos(R.U,Autumn)/28(6)-29(11),Ransei(R.U,Freesia)/28(0)-30(5),Kalos(W,Junia)
 30(8)-33(1),Kanto(W)/30(6)-32(11),Kanto(W,Autumn)/30(6)-32(11),Kanto(R.U,Amara)
 33(4)-34(9),Ransei(W)/33(2)-35(7),Kalos(W)/33(2)-34(7),Pasio(W)
 35(0)-37(5),Hoenn(W)/35(10)-38(3),Hoenn(W)/34(10)-37(3),Johto(W)
 
 37(11),GoC/38(9),GoC/37(9),GoC
 
-Junia(Pasio)/Nina(Ransei)
-
-18(0)-20(5),Hoenn(W)/18(1)-20(6),Hoenn(W)
-20(7)-23(0),Kanto(W)/20(8)-23(1),Kanto(W)
-23(4)-25(9),Kalos(W,Nina)/23(4)-25(9)
-,Kalos(R.U,Junia)
-26(0)-28(5),Unova(R.U,Nina)/26(0)-28(5),Unova(W,Junia)
-28(8)-31(1),Sinnoh(W,Nina)/28(8)-31(1),Sinnoh(R.U,Junia)
-31(4)-33(9),Johto(R.U,Nina)/31(4)-33(9),Johto(W,Natividad)
-34(0)-35(5),Ransei(W)/34(1)-35(6),Ransei(W)
-35(8)-37(1),Pasio(W)/35(9)-37(2),Pasio(W)
-
-37(7),GoC/37(8),GoC
-
 Jerome
 
-17(6)-19(11),Kanto(W,Freesia)
-20(6)-22(11),Unova(W)
-22(4)-24(9),Johto(W)
-25(0)-27(5),Kalos(R.U,Chongark)
-27(10)-30(3),Hoenn(W)
-30(10)-33(3),Sinnoh(R.U,Dawn)
-33(7)-35(0),Ransei(W,Dawn)
-35(3)-36(8),Pasio(W,Dawn)
+17(7)-20(0),Kanto(W,Freesia)
+20(3)-21(11),Pasio League(R512,Misty)
+22(3)-23(8),Ransei(W)
+23(11)-26(4),Unova(W)
+26(7)-29(0),Johto(W)
+29(3)-30(8),Pasio(R.U,Chongark)
+30(11)-33(4),Sinnoh(R.U,Dawn)
+33(7)-36(0),Hoenn(W,Dawn)
+36(6)-38(11),Kalos(W,Freesia)
 
-37(2),GoC
+39(5),GoC
+
+
+May vs ^(=Gus)(1st ever match@Pasio)
+
+{Mimikyu vs Altaria,Altaria
+Calyrex vs Drampa,Drampa
+Moltres vs Tropius,Tropius
+Alcreamie vs Latias,Latias
+Urshifu vs Druddigon,Druddigon
+Banette vs Eternatus,Eternatus}
+
+[Magnus,37[38,June-30],Dr Magnus Glenol
+
+7(6)-8(5),Primary+Elementary@Kitesky
+8(6)-13(5),Kitesky@Middle School
+13(6)-16(5),Kitesky@High School
+16(6)-21(5),Frucifern University
+21(6)-27(5),Oak Labs(R)
+27(6)-27(7),Tests1
+27(8)-29(2),Johto
+29(3)-30(0),Ransei
+30(1)-31(7),Kalos
+31(8),Tests2
+31(9)-32(5),Bosangria@Sewage
+32(6),Thesis
+32(7)-32(8),Hospital
+32(9)-32(11),Recovery
+33(0)-33(2),Oak Labs@Work
+33(3)-33(5), Accusation+Detention+Trial
+33(6)-34(3),Pasio
+34(4)-35(10),Sinnoh
+35(11)-37(5),Unova
+37(6)-39(0),Hoenn
+39(1),Tests3
+39(2),Kaklarpal Swamplands
+39(3),Test4
+39(4),Damsumer 🌋
+39(5),Tests5
+39(6)-41(11),Kanto(R)
+42(0),Test6
+42(1),Flexdijon
+42(2),Tests7(P)
+42(3)-,Oak Labs@Work
+
+
+Dawn,28[29,March-2]@Sinnoh,Mrs Dawn Berlitz Glenol
+(Dawn's Bunch,43+Starter
+
+Fly :
+
+Ho-Oh,Moltres,Thundurus,Lugia,Articuno,Zapdos,Aerodactyl,Celesteela,Golurk,Volcarona,Frosmoth,Scolipede,Ariados,Shaymin,Tropius
+
+Fire :
+
+Groudon,Heatran,Coalossal,Victini
+
+Water :
+
+Kaledo,Silvally,Urshifu,Grappolct,Milotic
+
+Fight :
+
+Cobalion,Terrakion,Meloetta,Zarude
+
+Ground :
+
+Garchomp,Duraludon
+
+Poison :
+
+Naganadel,Orbeetle,Weezing,Nihilego
+
+Psychic :
+
+Mimikyu,Spiritomb
+
+Grass :
+
+Virizion,Lurantis
+
+Electric :
+
+Zekrom,Xkurkitree,Raikou,Boltund,Zeraora
+Empoleon(Starter))
+
+{30(9)}30(11)-33(4),Sinnoh Contest(W,Jerome)
+{30(9)-33(4),Sinnoh League(W,Melody)
+32(5)-33(5),Sinnoh Frontier(W)}
+33(7)-36(0),Hoenn(R.U,Jerome)
+36(1)-36(8),Unova League(DNC)
+37(0)-37(10),Kalos Contest(DNC-> DNQ No Entry in Grand Conference/League Finals if,DNQ confirmed two months earlier to the earliest league starting month=Did Not Complete)
+37(11)-38(6),Ransei League(DNC) 
+38(7)-39(2),Pasio Contest(DNC)
+[39(3)-39(5),Pasio@Stay]
+39(6)-41(11),Kanto Contest(W)
+42(0)-44(8),Johto League(W)
