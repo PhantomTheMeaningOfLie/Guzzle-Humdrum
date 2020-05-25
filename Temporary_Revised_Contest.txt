@@ -1,15 +1,15 @@
 Yagmur(Kanto)
 
-17(7)-20(0),Kanto Contest(W,#Gus#)
-20(2)-22(7),Unova(Q)
-22(9)-25(2),Kalos(W)
-25(5)-27(10),Hoenn(W)
-28(1)-30(6),Johto(W)
-30(9)-32(2),Pasio(R.U,Gladys)
-32(5)-33(10),Ransei(W\D,Gladys)
-34(1)-36(6),Sinnoh(W\D,Gladys)
+17(6)-19(11),Kanto Contest(W,#Gus)
+20(0)-22(5),Unova(W)
+22(9)-25(2),Sinnoh(Q)
+25(5)-27(10),Hoenn(W,Hua)
+28(1)-30(6),Kalos(Q)
+30(9)-32(2),Pasio(W)
+32(3)-33(8),Ransei(W)
+33(11)-36(4),Johto(W)
 
-37(0),GoC
+36(10),GoC
 
 
 Chongark(Unova)/Drew(Hoenn)/May(Hoenn)
@@ -154,9 +154,9 @@ Empoleon(Starter))
 32(5)-33(5),Sinnoh Frontier(W)}
 33(7)-36(0),Hoenn(R.U,Jerome)
 36(1)-36(8),Unova League(DNC)
-37(0)-37(10),Kalos Contest(DNC-> DNQ No Entry in Grand Conference/League Finals if,DNQ confirmed two months earlier to the earliest league starting month=Did Not Complete)
+37(3)-37(10),Kalos Contest(DNC-> DNQ No Entry in Grand Conference/League Finals if,DNQ confirmed two months earlier to the earliest league starting month=Did Not Complete)
 37(11)-38(6),Ransei League(DNC) 
 38(7)-39(2),Pasio Contest(DNC)
 [39(3)-39(5),Pasio@Stay]
-39(6)-41(11),Kanto Contest(W)
+39(6)-41(9),Kanto Contest(Completed)
 42(0)-44(8),Johto League(W)
