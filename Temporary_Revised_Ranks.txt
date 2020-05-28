@@ -14,19 +14,17 @@ David,41[42,February-6](Sinnoh(Original)/Kanto(TR.Ucvr->Double))/Galaxy,42[43,Oc
 
 Redzep/Krystal
 
-18(9)-21(5),Kanto(W)/18(8)-21(4),Kanto(W)
-21(6)-24(2),Kalos(W)/21(7)-24(3),Kalos(W)
-24(3)-27(0),Sinnoh(W)/24(3)-26(11),Sinnoh(W)
-27(3)-29(11),Johto(W\D,Krystal)/27(3)-29(11),Johto(W\d,Krystal)
-30(2)-31(10),Pasio(R.U,Krystal)/30(2)-31(10),Pasio(W,Redzep)
-32(1)-33(9),Ransei(W,Krystal)/32(1)-33(9),Ransei(R.U,Redzep)
-33(10)-36(6),Unova(SF,#Gus)/33(10)-36(6),Unova(R.U,#Gus)
-36(9)-37(9),Kalos Frontier(W\D,Krystal)/36(9)-37(9),Kalos Frontier(W\D,Krystal)
-37(9)-40(5),Hoenn(W)/37(10)-40(6),Hoenn(W)
+18(8)-21(4),Kanto(W\D,Krystal)/18(8)-21(4),Kanto(W\D,Krystal)
+21(7)-24(3),Kalos(W\D,Krystal)/21(7)-24(3),Kalos(W\D,Krystal)
+24(5)-27(1),Sinnoh(W\D,Krystal)/24(5)-27(1),Sinnoh(W\D,Redzep)
+27(9)-29(5),Ransei(Genkai)/27(3)-29(11),Johto(W)
+30(0)-31(8),Pasio(W\D,Krystal)/30(0)-31(8),Pasio(W\D,Redzep)
+31(10)-34(6),Unova(W)/31(10)-33(6),Ransei(W)
+34(8)-37(4),Johto(W)/33(10)-36(6),Unova(R.U,#Gus)
+36(9)-37(9),Kalos Frontier(W\D,Krystal)/36(9)-37(9),Kalos Frontier(W\D,Redzep)
+37(10)-40(6),Hoenn(W\D,Krystal)/37(10)-40(6),Hoenn(W\D,Redzep)
 
-41(11),HoF/42(0),HoF
-
-
+42(0),HoF/42(0),HoF
 
 
 Marc,44[45,March](Unova)/Percy,44[45,May](Kalos)/(Maymuun,39[40]@Unova+Sonrisa,42[43,December]@Unova)/(Samroze,39[40]@Unova+Solaria,42[43,December@Unova])
@@ -749,11 +747,11 @@ Baekhyun,Acadia,Patricia,Merlot,Clyde,Chigusa
 
 Ransei(Blossom) : 
 
-Ebtissam,Arsene,Alastair,Homa,Madeline
+Ebtissam,Sapphire,Lusamine,Homa,Madeline
 
 Ransei(Genkai)
 
-Sapphire,Constance,Lusamine,Montague,Redzep
+Arsene,Constance,Alastair,Montague,Redzep
 
 Kanto Frontier{256}(Blossom) : 
 
