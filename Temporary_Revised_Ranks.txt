@@ -83,7 +83,11 @@ Lucent/Potentia
 29(6)-30(6),Kanto Frontier(Blossom)/29(6)-30(6),Kanto Frontier(Genkai)
 31(0)-33(8),Johto(W\D,Potentia)/31(0)-33(8),Johto(W\D,Lucent)
 34(0)-36(8),Kalos(W\D,Potentia)/34(0)-36(8),Kalos(W\D,Lucent)
+<<<<<<< HEAD
 37(1)-39(9),Kanto(W\D,Theresa)/36(10)-39(6),Kanto(W)
+=======
+37(1)-39(9),Kanto(W\D)/36(10)-39(6),Kanto(W)
+>>>>>>> 7a1afef274cf03fe5c114443ad359d35a6caaee6
 
 41(3),HoF/41(0),HoF
 
@@ -872,3 +876,7 @@ Lance,67[68->2nd Half]
 
 Theresa,Dawn,Gus
 
+<<<<<<< HEAD
+=======
+43(5-15)-Assume Work/43(5-1)-Assume Work
+>>>>>>> 7a1afef274cf03fe5c114443ad359d35a6caaee6
