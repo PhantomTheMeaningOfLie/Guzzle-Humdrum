@@ -54,7 +54,7 @@ Junia(Pasio)/Amara(Sinnoh)/Autumn(Johto)
 Jerome
 
 17(7)-20(0),Kanto(W,Freesia)
-20(3)-21(11),Pasio League(R512,Misty)
+20(3)-21(11),Pasio League(R512,Misty)
 22(3)-23(8),Ransei(W)
 23(11)-26(4),Unova(W)
 26(7)-29(0),Johto(W)
@@ -151,12 +151,21 @@ Empoleon(Starter))
 
 {30(9)}30(11)-33(4),Sinnoh Contest(W,Jerome)
 {30(9)-33(4),Sinnoh League(W,Melody)
-32(5)-33(5),Sinnoh Frontier(W)}
-33(7)-36(0),Hoenn(R.U,Jerome)
-36(1)-36(8),Unova League(DNC)
-37(3)-37(10),Kalos Contest(DNC-> DNQ No Entry in Grand Conference/League Finals if,DNQ confirmed two months earlier to the earliest league starting month=Did Not Complete)
-37(11)-38(6),Ransei League(DNC) 
-38(7)-39(2),Pasio Contest(DNC)
-[39(3)-39(5),Pasio@Stay]
-39(6)-41(9),Kanto Contest(Completed)
-42(0)-44(8),Johto League(W)
+32(8)-33(8),Sinnoh Frontier(W)
+33(10)-36(3),Hoenn Contest(R.U,Jerome)
+36(4)-36(9),Unova League(Disqualified->AWOL)
+36(11)-37(8),Suspended
+37(9)-38(4),Kalos League(DNC)
+38(5)-38(10),Ransei Contest(DNC)
+38(11)-39(4),Pasio Contest(DNC)
+{39(5)-39(10),Pasio}
+39(11)-41(5),Kanto Contest(DNC)
+{41(7),Mrs Dawn Berlitz Glenol}
+41(8)-44(4),Johto League(W)
+44(6)-,11_City@Judge/Evaluator
+
+
+
+Gladys@2 Leagues(Ranger@Lab)
+
+Roy@2 Leagues(Ranger@Lab)
