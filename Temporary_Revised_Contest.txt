@@ -14,16 +14,16 @@ Yagmur(Kanto)
 
 Chongark(Unova)/Drew(Hoenn)/May(Hoenn)
 
-22(6)-24(11),Kanto(W)/24(10)-27(3),Hoenn(Q)/24(11)-27(4),Hoenn(Q)
-25(2)-27(7),Kalos(W)/27(8)-29(1),Ransei(W\D,May)/27(8)-29(1),Ransei(W\D,Drew)
-27(9)-29(2),Ransei(W)/29(4)-31(9),Kalos(W\D,May)/29(4)-31(9),Kalos(W\D,Drew)
-29(3)-30(8),Pasio(W,Jerome)/31(11)-33(4),Pasio(W)/32(3)-33(8),Pasio(R.U,#Gus)
-30(11)-33(4),Hoenn(W)/33(7)-36(0),Unova(W,Chongark)/33(9)-36(2),Unova(W)
-33(7)-36(0),Unova(R.U,Drew)/36(3)-38(8),Sinnoh(R.U,Chongark)/36(4)-38(9),Sinnoh(W)
-36(3)-38(8),Sinnoh(W,Drew)/38(11)-41(4),Kanto(W\D,May)/38(11)-41(4),Kanto(W\D,Drew)
-38(11)-41(4),Johto(W)/41(5)-43(10),Johto(W\D,May)/41(5)-43(10),Johto(W\D,Drew)
+20(5)-22(10),Kanto(W)/24(10)-27(3),Hoenn(Q)/24(11)-27(4),Hoenn(Q)
+23(1)-25(6),Unova(W)/27(8)-29(1),Ransei(W\D,May)/27(8)-29(1),Ransei(W\D,Drew)
+25(7)-28(0),Johto(W,Jerome)/29(2)-31(7),Unova(W\D,May)/29(2)-31(7),Unova(W\D,Drew)
+28(7)-30(0),Ransei(R.U,#Gus)/31(8)-33(1),Pasio(W\D,May)/31(8)-33(1),Pasio(W\D,Drew)
+30(7)-33(0),Hoenn(W)/33(3)-35(8),Sinnoh(R.U,Chongark)/33(3)-35(8),Sinnoh(Q)
+33(3)-35(8),Sinnoh(W,Drew)/35(0)-38(5),Kalos(W,Chongark)/36(6)-38(11),Kalos(W,Freesia)
+36(0)-38(5),Kalos(R.U,Drew)/39(0)-41(5),Kanto(W\D,May)/39(0)-41(5),Kanto(W\D,Drew)
+38(6)-39(11),Pasio(W)/41(6)-43(11),Johto(W\D,May)/41(6)-43(11),Johto(W\D,Drew)
 
-41(10),GoC/44(4),GoC/44(4),GoC
+40(5),GoC/44(5),GoC/44(5),GoC
 
 Soledad(Kalos)/Natividad(Ransei)/Sarmad(Johto->Kanto)
 
@@ -54,16 +54,15 @@ Junia(Pasio)/Amara(Sinnoh)/Autumn(Johto)
 Jerome
 
 17(7)-20(0),Kanto(W,Freesia)
-20(3)-21(11),Pasio League(R512,Misty)
-22(3)-23(8),Ransei(W)
-23(11)-26(4),Unova(W)
-26(7)-29(0),Johto(W)
-29(3)-30(8),Pasio(R.U,Chongark)
+20(1)-21(6),Pasio(W)
+21(7)-24(0),Unova(W)
+24(1)-25(6),Ransei(W)
+25(7)-28(0),Johto(R.U,Chongark)
+28(3)-30(8),Kalos(W)
 30(11)-33(4),Sinnoh(R.U,Dawn)
-33(7)-36(0),Hoenn(W,Dawn)
-36(6)-38(11),Kalos(W,Freesia)
+33(7)-36(0),Hoenn(W)
 
-39(5),GoC
+36(6),GoC
 
 
 May vs ^(=Gus)(1st ever match@Pasio)
