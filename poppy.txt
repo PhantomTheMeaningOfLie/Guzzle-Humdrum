@@ -1,0 +1,8 @@
+poppy,mallow->
+Itzel,Yagmur
+Guang,Gus
+Goran,Goy->mulu
+
+Romelu->Romu
+
+Freesia Barwaski[Free Bar],Umble Barwaski[You Are],Misty Barwaski[Mist Far],Ephraim Barwaski[Aim Char]
