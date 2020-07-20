@@ -872,3 +872,7 @@ Lance,67[68->2nd Half]
 
 Theresa,Dawn,Gus
 
+<<<<<<< HEAD
+=======
+43(5-15)-Assume Work/43(5-1)-Assume Work
+>>>>>>> 190f13d... Update Temporary_Revised_Ranks.txt
