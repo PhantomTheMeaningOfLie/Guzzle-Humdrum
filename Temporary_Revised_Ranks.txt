@@ -8,9 +8,9 @@
 31(0,)-33(8,),Johto(W,Galaxy,F)/31(0,)-33(8,),Johto(R.U,David)/32(8,)-33(8,),Unova Frontier(W)
 33(10,)-36(6,),Unova(R512,*)/33(10,)-36(6,),Unova(QF,^^)/33(10,)-36(6,),Unova(SF,^^)
 {37(1,)-37(7,)-27,TR.Ucvr}/36(11,)-39(7,),Sinnoh(W)/{37(1,)-37(7,)-27,TR.Ucvr}
-37(9,)-40(5,),Kanto(W,Iris,F)/../37(8,)-40(5,),Kanto(R.U,David)
+37(11,)-40(7,),Kanto(W,Iris,F)/../37(11,)-40(7,),Kanto(R.U,David)
 
-41(11,),HoF(8-0)/41(1,),HoF(8-0)/41(11,),HoF(8-0)
+42(1,),HoF(8-0)/41(1,),HoF(8-0)/42(1,),HoF(8-0)
 
 Redzep/Krystal
 
@@ -929,7 +929,7 @@ Lance,67[68->2nd Half]
 
 42(2,)Retire
 *=Genkai
-^=Blossom
+^/^^=Blossom
 ..................................
 {Mr Genkai Oak(Column Jargon=Offshoot Trap)+Mrs Blossom Ketchum Oak(Slalom Seldom=Parachute Map)}=The Feathered Ones
 
