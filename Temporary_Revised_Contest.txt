@@ -1,8 +1,8 @@
-Gladys,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
+Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 
-15(2)-17(7),Johto Contest(W\D,Poppy)/15(2)-17(7),Johto(W\D,Gladys)
+15(2)-17(7),Johto Contest(W\D,Poppy)/15(2)-17(7),Johto(W\D,Zoi)
 17(10)-20(3),Kanto Contest(W,Khedafi)/17(9)-20(2),Kanto(R.U,Jerome)/17(8)-20(1),Kanto(R.U,Yumn)
-20(8)-22(1),Pasio Contest(W\D,Poppy,Mehadi)/20(8)-22(1),Pasio(W\D,Gladys,Mehadi)/20(8)-22(1),Pasio(W\D,Gladys,Poppy)
+20(8)-22(1),Pasio Contest(W\D,Poppy,Mehadi)/20(8)-22(1),Pasio(W\D,Zoi,Mehadi)/20(8)-22(1),Pasio(W\D,Zoi,Poppy)
 22(6)-24(11),Johto League(QF,Melody)/22(3)-24(11),Johto(R256,Paul)/22(6)-24(11),Johto(W,Yumn)
 25(6)-27(11),Hoenn Contest(W\D,Poppy,Mehadi),Same..
 28(6)-29(11),Ransei(W\D,Same),Same..
@@ -15,7 +15,7 @@ Gladys,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 40(0)-,Maddermint@Contest
 
 Yumn,42[42,February-13]@Kanto/Khedafi,41[42,March-12]@Johto
-17(8)-20(1),Kanto(W,Mehadi)/17(10)-20(3),Kanto(R.U,Gladys)
+17(8)-20(1),Kanto(W,Mehadi)/17(10)-20(3),Kanto(R.U,Zoi)
 20(7)-22(0),Pasio(R.U,Khedafi)/20(7)-22(0),Pasio(W,Yumn)
 22(6)-24(11),Johto(R.U,Mehadi)/22(4)-24(9),Unova(W)
 25(0)-26(5),Ransei(W)/24(10)-26(3),Ransei(W)
