@@ -461,13 +461,13 @@ Cheng(Hoenn)/Errapel(Johto)
 25(1,)-26(9,),Pasio(W)/25(1,)-27(9,),Sinnoh(W)
 27(0,)-29(8,),Sinnoh(R.U,Artemus)/28(0,)-29(8,),Pasio(W)
 29(11,)-32(7,),Unova(W)/30(0,)-31(8,),Ransei(R.U,Abriana)
-32(11,)-35(7,),Kalos(W,Deontay)/31(11,)-34(7,),Unova(W,Brishna)
+32(11,)-35(7,),Kalos(W,Deontay)/31(11,)-34(7,),Unova(W,Siluca)
 35(9,)-37(5,),Ransei(W)/34(9,)-37(5,),Kalos(W)
 37(8,)-40(4,),Hoenn(W)/37(7,)-40(3,),Hoenn(W)
 
 41(10,),HoF/41(9,),HoF
 
-Deontay(Hoenn)/Brishna(Johto)
+Deontay(Hoenn)/Siluca(Johto)
 
 16(4,)-19(0,),Kanto(W)/16(5,)-19(1,),Sinnoh(W)
 19(3,)-21(11,),Sinnoh(W)/19(4,)-22(0,),Kanto(W)
@@ -489,7 +489,7 @@ Shylock(Unova)/Acadia(Unova)
 22(1,)-24(9,),Kalos(W)/22(2,)-24(10,),Kalos(W)
 25(1,)-27(9,),Hoenn(^)/25(0,)-27(8,),Hoenn(*)
 28(2,)-30(10,),Kanto(W,Ladeidra)/28(0,)-29(8,),Ransei(W,Baekhyun)
-31(1,)-32(9,),Pasio(R.U,Deontay)/29(11,)-31(7,),Pasio(R.U,Brishna)
+31(1,)-32(9,),Pasio(R.U,Deontay)/29(11,)-31(7,),Pasio(R.U,Siluca)
 33(0,)-34(8,),Ransei(W)/31(10,)-34(6,),Unova(W)
 34(11,)-37(7,),Unova(W)/34(9,)-37(5,),Kanto(W)
 37(10,)-40(6,),Johto(W)/37(8,)-40(4,),Johto(W)
@@ -786,7 +786,7 @@ Kanto@18
 
 Sinnoh@17([Jason],Wilhelm+Talullah,Giourkas,Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimmer+Kulap,Blaze+Prue,Trevor)
 
-Johto@14([Cynthia],{Dillon},Decha+Freya,Errapel+Ebtissam,Sosuke+Brishna,Payam+Visola,Montague+Madeline,Ionut,Gaydarbek)
+Johto@14([Cynthia],{Dillon},Decha+Freya,Errapel+Ebtissam,Sosuke+Siluca,Payam+Visola,Montague+Madeline,Ionut,Gaydarbek)
 
 Hoenn@14([Ivana],{Munro},Logan+Jirah,Cheng+Sapphire,Alastair+Brooke,Deontay+Drizzle,Gabriel,Mateo,Bahodirjon,Yerkebuian)
 
@@ -816,7 +816,7 @@ Jirah,Biming,Ivana,Trevor,Wendy
 Johto(Blossom,Genkai) :
 
 .,.,Paul,Payam,Deontay,Errapel,Decha,Melody(SF)|
-.,Gary,.,Seymour,Brishna,Cheng,Freya,Drizzle,Melody(R.U)|
+.,Gary,.,Seymour,Siluca,Cheng,Freya,Drizzle,Melody(R.U)|
 
 Hoenn (Blossom) :
 Odlanier,Ayaz,Bartholomew,Magnolia,Shylock,Ladeidra,Scarlett

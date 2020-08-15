@@ -4,11 +4,11 @@ Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 17(10)-20(3),Kanto Contest(W,Khedafi)/17(9)-20(2),Kanto(R.U,Jerome)/17(8)-20(1),Kanto(R.U,Yumn)
 20(8)-22(1),Pasio Contest(W\D,Poppy,Mehadi)/20(8)-22(1),Pasio(W\D,Zoi,Mehadi)/20(8)-22(1),Pasio(W\D,Zoi,Poppy)
 22(6)-24(11),Johto League(QF,Melody)/22(3)-24(11),Johto(R256,Paul)/22(6)-24(11),Johto(W,Yumn)
-25(6)-27(11),Hoenn Contest(W\D,Poppy,Mehadi),Same..
+25(6)-27(11),Kalos Contest(W\D,Poppy,Mehadi),Same..
 28(6)-29(11),Ransei(W\D,Same),Same..
-30(6)-33(0),Sinnoh(W\D,Same),Same..
-33(7)-36(0),Unova(W\D,Same),Same..
-36(7)-39(0),Kalos(W\D,Same),Same..
+30(6)-33(0),Unova(W\D,Same),Same..
+33(7)-36(0),Sinnoh(W\D,Same),Same..
+36(7)-39(0),Hoenn(W\D,Same),Same..
 
 39(1)-39(9),Elite4(GoC,W with all->same)
 
@@ -90,6 +90,6 @@ Jerome@Ransei,41[42,June-30]/Arnold@Kanto,51[51,January-30]
 25(11)-28(4),Kalos(R.U,Junia)/28(5)-30(10),Unova(R.U,Jerome)
 28(5)-30(10),Unova(W,Arnold)/30(11)-33(4),Sinnoh(W\D,Jerome)
 30(10)-33(4),Sinnoh(W\D,Arnold)/33(5)-35(10),Kalos(W)
-33(11)-36(4),Hoenn(W)/35(11)-37(4),Ransei
+33(11)-36(4),Hoenn(W)/35(11)-37(4),Ransei(W)
 
 36(11),GoC/37(11),GoC
