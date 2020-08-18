@@ -107,4 +107,4 @@ Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 35(8)-36(8),Kanto_Frontier_Contest(W\D,Poppy)/35(8)-36(8),Kanto_Frontier_Contest(W\D,Zoi)/37(2)-38(10),Ransei(W\D,Poppy,Zoi)
 37(2)-38(10),Ransei(W\D,Poppy,Mehadi/37(2)-38(10),Ransei(W\D,Mehadi,Zoi)/38(11)-39(11),Kanto_Frontier_Contest(W,Jerome)
 
-40(7),GoC(8,8)/40(7),GoC(7,7)/41(8),GoC(7,8)
+40(7),GoC(8,8-0)/40(7),GoC(7,7-1{Kanto}-0)/41(8),GoC(7,8-0)
