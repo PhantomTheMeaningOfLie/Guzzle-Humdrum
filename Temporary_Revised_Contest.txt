@@ -78,7 +78,7 @@ Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 ../15(2)-17(10),Kanto(Q)
 ../17(11)-20(7),Kalos(W)
 
-17(8)-20(4),Kanto(W,Mehadi)/20(11)-21(11),Kanto_Frontier_Conference(W)
+17(8)-20(4),Kanto(R.U,Mehadi)/20(11)-21(11),Kanto_Frontier_Conference(W)
 20(7)-23(3),Unova(W)/22(0)-24(8),Unova(W)
 23(4)-26(0),Johto(W)/24(9)-26(5),Pasio(R.U,Flavia)
 
@@ -90,7 +90,7 @@ Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 
 34(2)-36(10),Kalos(R.U,Junia)/..
 37(2)-38(10),Pasio(W)/..
-38(11)-39(11),Kanto_Contest_Frontier(R.U,Mehadi)/...
+38(11)-39(11),Kanto_Contest_Frontier(W,Mehadi)/...
 
 41(5),GoC/37(11),GoC
 
@@ -105,6 +105,6 @@ Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 31(2)-33(10),Kalos(W\D,Poppy,Mehadi)/31(2)-33(10),Kalos(W\D,Mehadi,Zoi)/31(2)-33(10),Kalos(W\D,Zoi,Poppy)
 33(11)-35(7)Pasio(W,Poppy)/33(11)-35(7),Pasio(R.U,Zoi)/33(11)-36(7),Sinnoh(W,Yumn)
 35(8)-36(8),Kanto_Frontier_Contest(W\D,Poppy)/35(8)-36(8),Kanto_Frontier_Contest(W\D,Zoi)/37(2)-38(10),Ransei(W\D,Poppy,Zoi)
-37(2)-38(10),Ransei(W\D,Poppy,Mehadi/37(2)-38(10),Ransei(W\D,Mehadi,Zoi)/38(11)-39(11),Kanto_Frontier_Contest(W,Jerome)
+37(2)-38(10),Ransei(W\D,Poppy,Mehadi/37(2)-38(10),Ransei(W\D,Mehadi,Zoi)/38(11)-39(11),Kanto_Frontier_Contest(R.U,Jerome)
 
 40(7),GoC(8,8-0)/40(7),GoC(7,7-1{Kanto}-0)/41(8),GoC(7,8-0)
