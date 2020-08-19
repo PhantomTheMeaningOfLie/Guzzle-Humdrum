@@ -64,35 +64,35 @@ Junia@Pasio,41[42,October-5]/Flavia@Kalos,41[42,November-8]
 18(7)-21(3),Hoenn(W\D,Flavia)/18(7)-21(3),Hoenn(W\D,Junia)
 21(10)-24(6),Unova(W,Flavia)/21(10)-24(6),Unova(R.U,Junia)
 24(8)-26(4),Pasio(W)/24(9)-26(5),Pasio(W,Arnold)
-26(5)-28(1),Ransei(W)/26(6)-28(2),Ransei(W,Jerome)
+26(5)-28(1),Ransei(W)/26(6)-28(2),Ransei(W\D,Jerome)
 28(3)-30(11),Kanto(R.U,Chongark)/28(4)-31(0),Kanto(R.U,Soledad)
 31(3)-33(11),Sinnoh(R.U,Flavia)/31(3)-33(11),Sinnoh(W,Junia)
-34(2)-36(10),Kalos(W)/34(1)-36(9),Kalos(W)
-36(11)-39(7),Johto(W\D,Junia)/36(11)-39(7),Johto(W\D,Junia)
+34(2)-36(10),Kalos(W\D,Jerome)/34(1)-36(9),Kalos(W)
+36(11)-39(7),Johto(W\D,Flavia)/36(11)-39(7),Johto(W\D,Junia)
 39(8)-40(8),Kanto_Contest_Frontier(W)/39(8)-40(8),Kalos_Contest_Frontier(W)
 
 42(2),GoC/42(2),GoC
 
-Jerome@Ransei,41[42,June-30]/Arnold@Kanto,51[51,January-30]
+Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 
 ../15(2)-17(10),Kanto(Q)
 ../17(11)-20(7),Kalos(W)
 
 17(8)-20(4),Kanto(W,Mehadi)/20(11)-21(11),Kanto_Frontier_Conference(W)
-20(5)-23(1),Johto(Q)/22(0)-24(8),Unova(W)
-23(5)-26(1),Unova(W)/24(9)-26(5),Pasio(R.U,Flavia)
+20(7)-23(3),Unova(W)/22(0)-24(8),Unova(W)
+23(4)-26(0),Johto(W)/24(9)-26(5),Pasio(R.U,Flavia)
 
-../26(6)-29(2),Hoenn(W)
+../26(6)-29(2),Hoenn(W\D,Jerome)
 
-26(5)-28(2),Ransei(R.U,Flavia)/29(3)-31(11),Johto(W)
-28(8)-31(4),Kalos(W)/32(0)-34(8),Sinnoh(W,Jerome)
-32(0)-34(8),Sinnoh(R.U,Arnold)/34(9)-36(5),Ransei(W)
+26(6)-29(2),Hoenn(W\D,Arnold)/29(3)-31(11),Sinnoh(W\D,Jerome)
+29(3)-31(11),Sinnoh(W\D,Arnold)/32(0)-34(8),Johto(W)
+32(5)-34(1),Ransei(W)/34(9)-36(5),Ransei(W)
 
-34(11)-37(7),Hoenn(W)/..
-37(9)-39(5),Pasio(W)/..
-39(8)-40(8),Kanto_Contest_Frontier(R.U,Mehadi)/...
+34(2)-36(10),Kalos(R.U,Junia)/..
+37(2)-38(10),Pasio(W)/..
+38(11)-39(11),Kanto_Contest_Frontier(R.U,Mehadi)/...
 
-41(2),GoC/37(11),GoC
+41(5),GoC/37(11),GoC
 
 ............................................................................
 Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
