@@ -7,10 +7,10 @@
 29(2,)-30(10,),Ransei(R.U,Marc)/29(1,)-30(9,),Ransei(W)/30(10,)-32(6,),Pasio(W,Clyde,F)
 31(0,)-33(8,),Johto(W,Galaxy,F)/31(0,)-33(8,),Johto(R.U,David)/32(8,)-33(8,),Unova Frontier(W)
 33(10,)-36(6,),Unova(R512,*)/33(10,)-36(6,),Unova(QF,^^)/33(10,)-36(6,),Unova(SF,^^)
-{37(1,)-37(7,)-27,TR.Ucvr}/36(11,)-39(7,),Sinnoh(W)/{37(1,)-37(7,)-27,TR.Ucvr}
+{37(1,)-37(7,)-27,TR.Ucvr}/37(1,)-39(9,),Sinnoh(W)/{37(1,)-37(7,)-27,TR.Ucvr}
 37(11,)-40(7,),Kanto(W,Iris,F)/../37(11,)-40(7,),Kanto(R.U,David)
 
-42(1,),HoF(8-0)/41(1,),HoF(8-0)/42(1,),HoF(8-0)
+42(1,),HoF(8-0)/41(3,),HoF(8-0)/42(1,),HoF(8-0)
 
 Redzep/Krystal
 
@@ -103,7 +103,7 @@ Lucent/Potentia
 
 41(5,),HoF/41(2,),HoF
 
-4.Jason,43[44,August](Sinnoh)/Mr Stuart McShin,43[44,September](Kanto)/Yerkebuian@Hoenn/Ionut@Johto
+4.Jason,43[44,August](Sinnoh)/Mr Stuart McShin,43[44,September](Kanto)/Yilidiray@Hoenn/Siarhei@Johto
 
 Jason/Mr Stuart McShin
 
@@ -119,16 +119,16 @@ Jason/Mr Stuart McShin
 
 39(11,),HoF(7-0)/40(0,),HoF(7-0)
 
-Yerkebuian@Hoenn/Ionut@Johto
+Yilidiray@Hoenn/Siarhei@Johto
 
 17(1,)-19(9,),Kanto(W)/16(11,)-19(7,),Kanto(W)
-20(2,)-22(10,),Kalos(W,Ionut)/20(2,)-22(10,),Kalos(R.U,Yerkebuian)
-23(0,)-24(8,),Pasio(R.U,Ionut)/23(0,)-24(8,),Pasio(W,Yerkebuian)
-24(11,)-27(7,),Johto(W,Ionut)/25(0,)-27(7,),Johto(W\D,Yerkebuian)
+20(2,)-22(10,),Kalos(W,Siarhei)/20(2,)-22(10,),Kalos(R.U,Yilidiray)
+23(0,)-24(8,),Pasio(R.U,Siarhei)/23(0,)-24(8,),Pasio(W,Yilidiray)
+24(11,)-27(7,),Johto(W,Siarhei)/25(0,)-27(7,),Johto(W\D,Yilidiray)
 27(10,)-30(6,),Unova(W,Gaydarbek)/27(9,)-30(5,),Unova(W,Bahodirjon)
 30(11,)-33(7,),Sinnoh League(*)/31(0,)-33(8,),Sinnoh League(^)
 34(0,)-35(0,),Johto Frontier(W)/34(0,)-35(0,),Hoenn Frontier(W)
-35(3,)-37(11,),Hoenn(W\D,Ionut)/35(3,)-37(11,),Hoenn(W\D,Yerkebuian)
+35(3,)-37(11,),Hoenn(W\D,Siarhei)/35(3,)-37(11,),Hoenn(W\D,Yilidiray)
 38(2,)-39(10,),Ransei/38(3,)-39(11,),Ransei
 
 41(6,),HoF/41(7,),HoF
@@ -153,7 +153,7 @@ Bahodirjon@Hoenn/Gaydarbek@Johto
 20(3,)-22(11,),Johto(W)/20(0,)-22(8,),Johto(W)
 23(2,)-25(10,),Hoenn(W)/23(1,)-25(9,),Kalos(W)
 25(11,)-27(7,),Pasio(W\D,Gaydarbek)/25(11,)-27(7,),Pasio(W\D,Bahodirjon)
-27(10,)-30(6,),Unova(R.U,Ionut)/27(9,)-30(5,),Unova(R.U,Yerkebuian)
+27(10,)-30(6,),Unova(R.U,Siarhei)/27(9,)-30(5,),Unova(R.U,Yilidiray)
 30(11,)-33(7,),Sinnoh League(*)/30(9,)-33(8,),Sinnoh(^)
 34(1,)-36(9,),Kalos League(W,Giourkas)/34(1,)-36(9,),Hoenn League(W,Worapoj)
 36(11,)-38(7,),Ransei(W\D,Gaydarbek)/36(10,)-38(7,),Ransei(W\D,Bahodirjon)
@@ -474,7 +474,7 @@ Deontay(Hoenn)/Siluca(Johto)
 22(3,)-24(11,),Johto(Blossom)/22(3,)-24(11,),Johto(*)
 25(1,)-26(9,),Ransei(W)/25(2,)-26(10,),Ransei(W)
 27(0,)-29(8,),Unova(W)/27(0,)-29(8,),Kalos(W)
-29(10,)-30(10,),Hoenn Frontier(W)/29(11,)-31(7,),Pasio(W,Acadia)
+29(10,)-30(10,),Hoenn Frontier(W)/29(11,)-31(7,),Pasio(W,Henrietta)
 31(1,)-32(9,),Pasio(W,Shylock)/31(11,)-34(7,),Unova(R.U,Errapel)
 32(11,)-35(7,),Kalos(R.U,Cheng)/35(2,)-37(10,),Hoenn(W)
 36(0,)-38(8,),Hoenn(W)/37(11,)-38(11,),Johto Frontier(W)
@@ -482,7 +482,7 @@ Deontay(Hoenn)/Siluca(Johto)
 40(2,),HoF/40(5,),HoF
 
 
-Shylock(Unova)/Acadia(Unova)
+Shylock(Unova)/Henrietta(Unova)
 
 18(2,)-20(10,),Sinnoh(W\D)/18(2,)-20(10,),Sinnoh(W\D)
 20(11,)-21(11,),Unova Frontier(W)/21(0,)-22(0,),Unova Frontier(W)
@@ -502,7 +502,7 @@ Baekhyun(Ransei)/Ladeidra(Ransei)
 19(5,)-22(1,),Kalos(W)/19(7,)-22(3,),Sinnoh(W)
 22(2,)-24(10,),Kanto(W)/22(4,)-25(0,),Unova(W)
 25(0,)-27(8,),Hoenn(*)/25(1,)-27(9,),Hoenn(^)
-28(0,)-29(8,),Ransei(R.U,Acadia)/28(2,)-30(10,),Kanto(R.U,Shylock)
+28(0,)-29(8,),Ransei(R.U,Henrietta)/28(2,)-30(10,),Kanto(R.U,Shylock)
 29(11,)-32(7,),Unova(W,Ayaz)/31(1,)-33(9,),Kalos(W,Patricia)
 32(10,)-35(6,),Sinnoh(W)/34(0,)-35(8,),Pasio(W)
 35(10,)-38(6,),Johto(W)/35(11,)-38(7,),Johto(W)
@@ -750,7 +750,7 @@ Titan(Pasio)/Fiona(Ransei)/Sirichai(Kanto)/Roxanne(Kanto)
 
 Sakura(Kanto),55[56,First Half]/Riley(Unova),52[53,First Half]/Trevor(Sinnoh),50[51,Second Half]
 
-3(8,)-6(4,),Johto(W,Dennis)/6(11,)-4(7,),Sinnoh(W)/9(7,)-12(3,),Kanto(W)
+3(8,)-6(4,),Johto(W,Dennis)/6(11,)-9(7,),Sinnoh(W)/9(7,)-12(3,),Kanto(W)
 6(8,)-9(4,),Sinnoh(W\D,Lance)/9(10,)-12(6,),Unova(W)/12(6,)-12(6,),Sinnoh Frontier(W)
 9(8,)-12(4,),Unova(W,Mrs Lily Taubert Jolum)/12(9,)-14(5,),Ransei(W,Trevor)/12(9,)-14(5,),Ransei(R.U,Riley)
 13(6,)-14(6,),Kanto Frontier(W,Simon)/14(7,)-17(3,),Hoenn(R.U,Sakura)/14(11,)-17(7,),Johto(W)
@@ -777,7 +777,7 @@ Katya(Pasio),55[56,First Half]/Laura(Pasio),55[56,First Half]/Simon(kanto),55[56
 27(8,),HoF/27(9,),HoF/27(7,),HoF
 
 Unova@21
-([Marc],Ferdinand+{Iris},Arsene+Constance,Ayaz+Patricia,Bartholomew+Chigusa,Blink+Nancy,Khufaf+{Elisa},Tilal+Bianca,Samroze+Solaria,Maymuun+Sonrisa,Shylock+Acadia,Riley)
+([Marc],Ferdinand+{Iris},Arsene+Constance,Ayaz+Patricia,Bartholomew+Chigusa,Blink+Nancy,Khufaf+{Elisa},Tilal+Bianca,Samroze+Solaria,Maymuun+Sonrisa,Shylock+Henrietta,Riley)
 
 Kalos@20([Percy]+Samantha,{Nigel},Kalique+Krystal,Mikhail+Celmira,Biming+Anaya,Toshib+Onora,Bonaventura+Sulamita,Douglas+Magnolia,Seymour+Merlot,Redzep,Worapoj)
 
@@ -786,9 +786,9 @@ Kanto@18
 
 Sinnoh@17([Jason],Wilhelm+Talullah,Giourkas,Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimmer+Kulap,Blaze+Prue,Trevor)
 
-Johto@14([Cynthia],{Dillon},Decha+Freya,Errapel+Ebtissam,Sosuke+Siluca,Payam+Visola,Montague+Madeline,Ionut,Gaydarbek)
+Johto@14([Cynthia],{Dillon},Decha+Freya,Errapel+Ebtissam,Sosuke+Siluca,Payam+Visola,Montague+Madeline,Siarhei,Gaydarbek)
 
-Hoenn@14([Ivana],{Munro},Logan+Jirah,Cheng+Sapphire,Alastair+Brooke,Deontay+Drizzle,Gabriel,Mateo,Bahodirjon,Yerkebuian)
+Hoenn@14([Ivana],{Munro},Logan+Jirah,Cheng+Sapphire,Alastair+Brooke,Deontay+Drizzle,Gabriel,Mateo,Bahodirjon,Yilidiray)
 
 Pasio@7([Wendy],{Unam}+Aravi,Titan,Laura,Katya,Odlanier)
 
@@ -822,7 +822,7 @@ Hoenn (Blossom) :
 Odlanier,Ayaz,Bartholomew,Magnolia,Shylock,Ladeidra,Scarlett
 
 Hoenn (Genkai) :
-Utkirbek,Baekhyun,Acadia,Patricia,Merlot,Clyde,Chigusa
+Utkirbek,Baekhyun,Henrietta,Patricia,Merlot,Clyde,Chigusa
 
 Ransei(Blossom) : 
 
@@ -842,11 +842,11 @@ Mallow,Potentia,Sirichai,Mr Stuart McShin
 
 Sinnoh(Genkai) : 
 
-Worapoj,Bahodirjon,Yerkebuian,Visola,Logan,Jason,Joel,Jack,Nigel
+Worapoj,Bahodirjon,Yilidiray,Visola,Logan,Jason,Joel,Jack,Nigel
 
 Sinnoh(Blossom) : 
 
-Giourkas,Ionut,Gaydarbek,Maymuun,Solaria,Sonrisa,Samroze,Tallulah,Wilhelm
+Giourkas,Siarhei,Gaydarbek,Maymuun,Solaria,Sonrisa,Samroze,Tallulah,Wilhelm
 
 Unova(*,Blossom,Genkai) : 
 
