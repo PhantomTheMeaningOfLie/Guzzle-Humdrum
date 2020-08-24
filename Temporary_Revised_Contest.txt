@@ -12,19 +12,19 @@ Yumn,42[42,February-13]@Kanto/Khedafi,41[42,March-12]@Johto
 
 41(5),GoC/41(5),GoC
 
-Drew,38[39,April-4]+May,38[39,May-3]
+Drew,39[40,April-4]+May,39[40,May-3]
 
-20(8)-23(4),Hoenn(Q)/19(9)-22(5),Hoenn(Q)
-23(6)-24(6),Hoenn_Frontier_Contest(W\D,May)/23(6)-24(6),Hoenn_Frontier_Contest(W\D,Drew)
-24(8)-26(4),Ransei(W\D,May)/24(8)-26(4),Ransei(W\D,Drew)
-26(6)-28(2),Pasio(W\D,May)/26(6)-28(2),Pasio(W\D,Drew)
+19(10)-22(6),Hoenn(Q)/20(0)-22(8),Hoenn(Q)
+22(9)-24(5),Pasio(W\D,May)/22(9)-24(5),Pasio(W\D,Drew)
+24(6)-25(6),Hoenn_Contest_Frontier(W\D,May)/24(6)-25(6),Hoenn_Contest_Frontier(W\D,Drew)
+25(7)-28(3),Johto(W\D,May)/25(7)-28(3),Johto(W\D,Drew)
 28(4)-31(0),Unova(W,Natividad)/28(5)-31(1),Unova(W,Sarmad)
 31(2)-33(10),Kalos(W,Chongark)/31(3)-33(11),Kalos(W,Soledad)
 34(0)-36(8),Sinnoh(R.U,Yumn)/34(1)-36(9),Sinnoh(R.U,Khedafi)
-36(11)-39(7),Kanto(W\D,May)/36(11)-39(7),Kanto(W\D,Drew)
-40(2)-42(10),Johto(W\D,May)/40(2)-42(10),Johto(W\D,Drew)
+36(11)-38(7),Ransei(W\D,May)/36(11)-38(7),Ransei(W\D,Drew)
+38(10)-41(6),Kanto(W\D,May)/38(10)-41(6),Kanto(W\D,Drew)
 
-44(8),GoC/44(8),GoC
+44(0),GoC/44(0),GoC
 
 Chongark@Unova+Soledad@Sinnoh/Sarmad@Kanto+Natividad@Sinnoh
 
