@@ -97,9 +97,9 @@ Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 ............................................................................
 Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 
-15(8)-18(4),Kanto(W,Poppy)/15(8)-18(4),Kanto(R.U,Zoi)/17(8)-20(4),Kanto(R.U,Jerome)
-18(11)-21(7),Sinnoh(R.U,Poppy)/18(11)-21(7),Sinnoh(W,Zoi)/20(5)-22(1),Pasio(R.U,Yumn)
-22(2)-24(10),Johto(Q)/22(2)-24(10),Johto(W\D,Mehadi)/22(2)-24(10),Johto(W\D,Poppy)
+15(7)-18(3),Kanto(W,Poppy)/15(7)-18(3),Kanto(R.U,Zoi)/17(8)-20(4),Kanto(W,Jerome)
+18(10)-21(6),Sinnoh(R.U,Poppy)/18(10)-21(6),Sinnoh(W,Zoi)/20(5)-22(1),Pasio(R.U,Yumn)
+22(1)-24(9),Johto(W\D,Poppy)/22(1)-24(9),Johto(W\D,Zoi)/22(3)-24(11),Johto(W,Michael Bugpoi*)
 25(2)-27(10),Unova(W\D,Poppy,Mehadi)/25(2)-27(10),Unova(W\D,Zoi,Mehadi)/25(2)-27(10),Unova(W\D,Poppy,Zoi)
 27(11)-30(7),Hoenn(W\D,Poppy,Mehadi)/27(11)-30(7),Hoenn(W\d,Zoi,Mehadi)/27(11)-30(7),Hoenn(W\D,Zoi,Poppy)
 31(2)-33(10),Kalos(W\D,Poppy,Mehadi)/31(2)-33(10),Kalos(W\D,Mehadi,Zoi)/31(2)-33(10),Kalos(W\D,Zoi,Poppy)
@@ -107,4 +107,4 @@ Zoi,44(45,December-25]/(Poppy,44[45,December-25]/Mehadi,42[42,January-2])
 35(8)-36(8),Kanto_Frontier_Contest(W\D,Poppy)/35(8)-36(8),Kanto_Frontier_Contest(W\D,Zoi)/37(2)-38(10),Ransei(W\D,Poppy,Zoi)
 37(2)-38(10),Ransei(W\D,Poppy,Mehadi/37(2)-38(10),Ransei(W\D,Mehadi,Zoi)/38(11)-39(11),Kanto_Frontier_Contest(R.U,Jerome)
 
-40(7),GoC(8,8-0)/40(7),GoC(7,7-1{Kanto}-0)/41(8),GoC(7,8-0)
+40(7),GoC(8,8-0)/40(7),GoC(7,8-0)/41(8),GoC(7,8-0)
