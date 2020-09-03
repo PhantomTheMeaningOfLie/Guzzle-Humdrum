@@ -1,0 +1,6 @@
+Genkai+Blossom=Pikachu(M)<->Raichu(F)
+Adebayo+Zoi=Togetic(M)<->Togekiss(F)
+Guang+Itzel=Dragapult(M)<->Giratina(F)
+Gus+Yagmur=Giratina(M)<->Dragapult(F)
+Goran+Poppy=Starmie(M),Golduck(F)<->Plusle(M),Minum(F)
+Goy+Mehadi=Plusle(F),Minum(M)<->Starmie(F),Golduck(M)
