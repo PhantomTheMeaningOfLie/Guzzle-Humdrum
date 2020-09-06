@@ -1,36 +1,44 @@
-Dennis(laughing..) : "well then after i retired on the farewell day i looked at these rules of this ghastly sports if that's the right word to use#..but then i looked at the career of Mr and Mrs Paseras i said thank all heavens i didn't have to face them especially the lower classed one(all burst..,Dawn..The A-psychic Ones,Penny+Sandra un..long).."
+Dennis(laughing..) : "well then after i retired on the farewell day i looked at these rules of this ghastly sports if that's the right word to use#..but then i looked the only of 8,8 and knew ok i understand why Melody complaines of mental peace issues at Kalos(all burst,..Melody un..) but then on this regard i looked at the career of Mr and Mrs Paseras i said thank all heavens i didn't have to face them especially the lower classed one(all burst..,Melody..The A-psychic Ones,Penny+Sandra un..long).."
+
+General Training
 
 General Training
 
 135 Gyms
 30 Regional Specialists Cup(3 Days Full,Thursday-Saturday)
-[49*(1 General Trainer:81 Specialists)+8*9 City Specialists+6 Local Specialists
-(R4096,R2048,R1024,R512)
-(R256,R128,R64,R32)
-(R16,QF,SF,F)
-160*4=640 Minutes/Match->865-620 Minutes/3=75 Minutes/mid-Match(Break)
-{7:55-22:30}]
+[6*(1 General Trainer:81 Specialists)+2*9 City Specialists+2 Local Specialists
+(R512,R256,R128)
+(R64,R32,R16)
+(QF,SF,F)
+185{(27+10)*5}*3=555 Minutes/Match->786-555 Minutes/2=77 Minutes/mid-Match(Break)
+(15 Minutes Start)
+{8:30-21:50}]
 30 Regional Rangers' Cup
 [(Same as General Trainers but for 3 days)
-Every round new ranger result-agnostic,7-5 worst result fetches cup
-(R4096,R2048,R1028,R512)
-(R256,R128,R64,R32)
-(R16,QF,SF,F)]
+Every round new ranger result-agnostic,6-1-5 worst result fetches cup
+(R512,R256,R128)
+(R64,R32,R16)
+(QF,SF,F)]
 30 General Trainers' Cups(2 Day,Friday-Saturday)
-[(27+5)+(54Double+10)+(81Triple+15)=192 Minutes/Match|64 Minutes/mid-Match Break
-(R256,R128,R64,R32)
-(R16,QF,SF,F)
-{7:30-23:30}]
+[(27+10)+(54Double+15)+(81Triple+20)=197 Minutes/Match|->3 Matches
+822-591
+Minutes=77 Minutes/mid-Match Break{3}
+(R64,R32,R16)
+(QF,SF,F)
+{8:30-22:26}]
 
 General Training->Regional League(8)
 
-[5,7,9,12-13,15-16,18-19,21-22,24-25,27(29/1->next Month)
-All First Days->10vs10(single) with 36 minute round+62 minute break(3 breaks)
-(6,8,10)->tie break same rule with 9vs9
-left over 72 Minutes Round time(double vs double one round)
-all second days->
-(72+12)+(108+18)+(216+24)=450 Minutes+62 Minute long two mid-match breaks(last round 1 minute added)
-2nd day of final necessitates only if tie on first day
+[4-5,8-9,12-13,16-17,20-21,24-25,28-29,32-33,35]
+
+All First Days->7vs7(single)
+36+12=48 Minute/Round,48*13=480+144=624 Minutes(Total Match Time),855-624=77 Minutes/Mid Match Break(3 Breaks)
+(15 Minute Beginning)
+{8:30-23:00}
+all second days
+2*(72+19)+2*(108+26)+(144+33)=625 Minutes(77 minutes long 3 mid-match breaks,
+{8:30-23:01}
+Tie Break on final-> 1 single round,36+12=23:06-23:54{23:55}
 ]
 
 Specialist Trainer :
@@ -43,21 +51,24 @@ Specialist Trainer :
 [5 day same as described,first 4 days as above last day->mixed]
 
 Specialists's Final
-(5-25)->Final Cup(Same Type)
+->Final Cup(Same Type)
 [512*9 Total->9 Groups->9 Champions
-Same as League with no second day at R64-SF second day used for tie break only including final,6,8,10,14,17,20,23,26,28(29/1->next Month)]
+Same as League,2-3,6-7,10-11,14-15,18-19,22-23,26-27,30-31,34]
+
+Tie Break->Algorithm
 
 Contesting
 [9 Minutes/round=>3vs3,70 Minutes
 {4 day long,Thursday-Sunday}
 70*6=420 Minutes
-864-420=435/7=62 Minutes
-Final->10 Minute final round]
-(Total,94 Contests to be done/region)
+671-420=77 minutes(3 mid match breaks)
+Each will face the other twice in group of 4 for 3 days,only winner and runners up passes,each day 4 groups->final day(8 selected)->QF-2,SF-2,Final-2
+]
+(Total,97 Contests to be done/region)
 
 Contest->Regional Grand Conference(8)
-[9 Minute Rounds->11{Finals}
-R64,R32,R16,QF,SF,F->Rules same as Contests]
+[10 Minute Round{Finals}
+R64,R32,R16,QF,SF,F->Rules same as Contests,Finals(Only one Day)->1st Day of month(1)]
 
 League Frontier(Specialist's No Frontier)
 Unofficial Challenges(Any)->3/week(4 day long),12*3=36 Challenges
@@ -65,6 +76,23 @@ Unofficial Challenges(Any)->3/week(4 day long),12*3=36 Challenges
 
 Contesting Frontier
 (Similar as Above)
+
+Melody vs Genkai@Johto Final,24(3)-26(11)
+
+Goodra vs Feraligator,Feraligator
+Regidrago vs Feraligator,Draw
+Guzzlord vs Banette,Banette
+Dragapult vs Banette,Draw
+Latios vs Snorlax,Draw
+Hydreigon vs Sawk,Draw
+Xerneas vs Luxray,Draw
+Giratina vs Registeel,Draw
+Hoopa vs Donphan,Draw
+Alcreamie vs Arceus,Alcreamie
+Alcreamie vs Aromatisse,Alcreamie
+Alcreamie vs Chimecho,Draw
+
+Alakazam vs Solgaleo,Alakazam
 
 Mr Peniel Paseras@Psychix/Ghost/Fairy/Dark+Mrs Sandra Suofamo Paseras@Bug/Fly
 
