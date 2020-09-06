@@ -99,14 +99,14 @@ Ms Sheena McDugert
 
 (Dr) Gary Oak,Dr Oak Dr Oak,Mr Oak Mr Oak,Dr Oak,Mr Oak,Gary,42[43,December-31]
 
-17(2)-18(9),Unova(DNC)
+17(2)-18(9),Kalos(DNC)
 18(10)-19(5),Kanto(DNC)
 19(6)-20(2),Sinnoh(DNC)
 20(3)-20(11),Hoenn(DNC)
-21(0)-23(8),Pasio(W,Melody)
+21(0)-23(8),Unova(W,Melody)
 23(9)-24(1),Kanto Frontier
 24(3)-26(11),Johto(R512*,Genkai)
-27(0)-27(8),Kalos(DNC)
+27(0)-27(8),Pasio(DNC)
 27(9)-28(5),Ransei(DNC)
 {28(6),Naomi Labs
 28(7),Birch Labs
