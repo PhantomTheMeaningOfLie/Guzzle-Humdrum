@@ -110,6 +110,8 @@ Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 
 ..................................................................
 
+(Mr Adebayo Jenkins{Quoting Action=Sporting Caption},42[42,January-1]+Mrs Zoi Ketchum Jenkins{Noting Mention=Voting Section},42[42,January-1]){The Automated Ones}
+
 17(8)-21(4),Kanto Contest(W\D,Zoi)+17(8)-21(4),Kanto Contest(W\D,Adebayo)
 21(5)-24(1),Pasio(W\D,Zoi)+21(5)-24(1),Pasio(W\D,Adebayo)
 24(3)-26(11),Johto(Q)+24(3)-26(11),Johto(Q)
