@@ -51,14 +51,15 @@ Mr Clemont Abstar+Mrs Megan Bromstrong Abstar@Medicine_Test
 
 @From Kalos+Same as Jennifer@From Unova
 18(2)-24(1),Construction
-24(3)-26(3),
+24(3)-26(3),S1
 26(8)-33(7),Construction_Research
-33(9)-36(9),S1
-37(0)-40(3),S2
-40(6)-40(8),Special Course
-40(9),Fitness
-{40(10),Kalos@General Training@Amatuers}
-{40(11)-43(5),Kalos}
+33(9)-36(9),S2
+37(0)-37(2),Special Course
+37(3),Fitness
+{37(4),Ransei@General Training@Amatuers}
+{37(5),Unova}
+37(9)-40(9),Oak Labs@Work
+{41(0)-43(5),Kalos}
 43(9)-,Oak Labs@Work+30(3)-,Oak Labs@Work
 
 Mr Marlon Nakantaz@Fire+Mrs Bonnie Abstar Nakantaz@Ground/Rock/Steel
@@ -67,8 +68,8 @@ Mr Marlon Nakantaz@Fire+Mrs Bonnie Abstar Nakantaz@Ground/Rock/Steel
 23(11)-26(7),Sinnoh+Same
 26(11)-29(7),Hoenn+Same
 29(8)-32(4),Unova+Same
-32(5)-35(1),Ransei+Same
-35(4)-38(1),Pasio+Same
+32(5)-35(1),Pasio+Same
+35(4)-38(1),Ransei+Same
 38(5)-41(1),Johto+41(3)-43(11),Kalos
 41(6)-44(2),Kalos+44(0)-46(8),Johto
 44(9)-,Specialist+47(3)-,Specialist
@@ -77,16 +78,35 @@ Mr Bazugh Tomkins+Mrs Serena Toganne Tomkins
 
 Referee+Management
 
+18(2)-18(5),Sinnoh@Bug/Fly Specialist Training+22(2)-22(4),Kalos General Training
+18(8)-25(7),Refereeing Course+22(8)-28(7),Management
+25(9)-45(8),Regional Refereeing+28(9)-40(6),Kumaglak's Company@Oak Labs
+..+{40(9)-43(5),Kalos}
+..+43(9)-43(11),Special Course
+..+44(0),Fitness
+..+44(1)-44(2),Unova Contest
+46(0)-,Oak Labs@Work+44(6)-,Oak Labs@Work
+
+Abraham+Miette
+
+18(2)-,Sinnoh@Bug/Fly Specialist+..-22(4)Same as Serena
+..+22(8)-32(7), Biology_Engineering
+..+32(9)-,Oak Labs@Work
+
+Ms Sheena McDugert
+
+22(8)-,Same as Miette
+
 (Dr) Gary Oak,Dr Oak Dr Oak,Mr Oak Mr Oak,Dr Oak,Mr Oak,Gary,42[43,December-31]
 
-17(2)-18(9),Unova(DNC)
+17(2)-18(9),Kalos(DNC)
 18(10)-19(5),Kanto(DNC)
 19(6)-20(2),Sinnoh(DNC)
 20(3)-20(11),Hoenn(DNC)
-21(0)-23(8),Pasio(W,Melody)
+21(0)-23(8),Unova(W,Melody)
 23(9)-24(1),Kanto Frontier
 24(3)-26(11),Johto(R512*,Genkai)
-27(0)-27(8),Kalos(DNC)
+27(0)-27(8),Pasio(DNC)
 27(9)-28(5),Ransei(DNC)
 {28(6),Naomi Labs
 28(7),Birch Labs
