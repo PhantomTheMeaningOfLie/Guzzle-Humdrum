@@ -28,14 +28,14 @@ Yumn,42[42,February-13]@Kanto/Khedafi,41[42,March-12]@Johto
 
 Drew,40[41,April-4]@Hoenn+May,40[41,May-3]@Hoenn
 
-18(8)-22(4),Hoenn(Q)/18(9)-22(5),Hoenn(Q)
+18(8)-22(4),Kanto(Q)/18(9)-22(5),Kanto(Q)
 22(6)-23(6),Hoenn_Frontier_Contest(W\D,May)/22(6)-23(6),Hoenn_Frontier_Contest(W\D,Drew)
 23(8)-26(4),Ransei(W\D,May)/23(8)-26(4),Ransei(W\D,Drew)
 26(6)-29(2),Pasio(W\D,May)/26(6)-29(2),Pasio(W\D,Drew)
 29(4)-32(0),Unova(W,Natividad)/29(5)-32(1),Unova(W,Sarmad)
 33(2)-35(10),Kalos(W,Chongark)/33(3)-35(11),Kalos(W,Soledad)
 36(0)-38(8),Sinnoh(R.U,Yumn)/36(1)-38(9),Sinnoh(R.U,Khedafi)
-38(11)-41(7),Kanto(W\D,May)/38(11)-41(7),Kanto(W\D,Drew)
+38(11)-41(7),Hoenn(W\D,May)/38(11)-41(7),Hoenn(W\D,Drew)
 41(8)-44(4),Johto(W\D,May)/41(8)-44(4),Johto(W\D,Drew)
 
 46(11),GoC/46(11),GoC
@@ -49,7 +49,7 @@ Chongark,42[43,March-27]+Soledad,42[43,March-11]
 21(8)-24(4),Unova(W\D,Soledad)/21(8)-24(5),Unova(W\D,Chongark)
 24(5)-27(1),Ransei(W\D,Natividad)/24(6)-27(2),Ransei(W\D,Sarmad)
 27(4)-30(0),Sinnoh(W\D,Sarmad)/27(5)-30(1),Sinnoh(W\D,Natividad)
-30(3)-32(11),Kanto(W,Flavia)/30(4)-33(0),Kanto(W,Junia)
+30(3)-32(11),Kanto(W,Junia)/30(4)-33(0),Kanto(W,Flavia)
 33(2)-35(10),Kalos(R.U,Drew)/33(3)-35(11),Kalos(R.U,May)
 36(1)-38(9),Hoenn(W\D,Natividad)/36(2)-38(10),Hoenn(W\D,Sarmad)
 39(0)-41(8),Johto(W)/39(1)-41(9),Johto(W)
@@ -66,47 +66,47 @@ Sarmad,50[51,July-1]+Natividad,41[42,March-11]
 26(4)-29(0),Sinnoh(W\D,Chongark)/26(5)-29(1),Sinnoh(W\D,Soledad)
 29(4)-32(0),Unova(R.U,May)/29(5)-32(1),Unova(R.U,Drew)
 30(3)-32(11),Kalos(W\D,Natividad)/30(3)-32(11),Kalos(W\D,Sarmad)
-33(0)-34(0),Johto_Contest_Frontier/33(0)-34(0),Sinnoh_Contest_Frontier(W)
+33(0)-34(0),Johto_Contest_Frontier(W)/33(0)-34(0),Sinnoh_Contest_Frontier(W)
 34(1)-36(9),Hoenn(W\D,Soledad)/34(2)-36(10),Hoenn(W\D,Chongark)
 
 /39(1)-41(9),Kanto(W)
 
 38(3),GoC/41(3),GoC
 
-Junia@Pasio,41[42,October-5]/Flavia@Kalos,41[42,November-8]
+Junia@Pasio,42[43,October-5]/Flavia@Kalos,42[43,November-8]
 
-18(7)-21(3),Hoenn(W\D,Flavia)/18(7)-21(3),Hoenn(W\D,Junia)
+17(7)-21(3),Hoenn(W\D,Flavia)/17(7)-21(3),Hoenn(W\D,Junia)
 21(10)-24(6),Unova(W,Flavia)/21(10)-24(6),Unova(R.U,Junia)
-24(8)-26(4),Pasio(W)/24(9)-26(5),Pasio(W,Arnold)
-26(5)-28(1),Ransei(W)/26(6)-28(2),Ransei(W\D,Jerome)
-28(3)-30(11),Kanto(R.U,Chongark)/28(4)-31(0),Kanto(R.U,Soledad)
-31(3)-33(11),Sinnoh(R.U,Flavia)/31(3)-33(11),Sinnoh(W,Junia)
-34(2)-36(10),Kalos(W\D,Jerome)/34(1)-36(9),Kalos(W)
-36(11)-39(7),Johto(W\D,Flavia)/36(11)-39(7),Johto(W\D,Junia)
-39(8)-40(8),Kanto_Contest_Frontier(W)/39(8)-40(8),Kalos_Contest_Frontier(W)
+24(8)-27(4),Pasio(W)/24(9)-27(5),Pasio(W,Arnold)
+27(5)-30(1),Ransei(W)/27(6)-30(2),Ransei(W\D,Jerome)
+30(3)-32(11),Kanto(R.U,Chongark)/30(4)-33(0),Kanto(R.U,Soledad)
+33(3)-35(11),Sinnoh(R.U,Flavia)/33(3)-35(11),Sinnoh(W,Junia)
+36(2)-38(10),Kalos(W\D,Jerome)/36(1)-38(9),Kalos(W)
+38(11)-41(7),Johto(W\D,Flavia)/38(11)-41(7),Johto(W\D,Junia)
+41(8)-42(8),Kanto_Contest_Frontier(W)/41(8)-42(8),Kalos_Contest_Frontier(W)
 
-42(2),GoC/42(2),GoC
+44(2),GoC/44(2),GoC
 
 Jerome@Ransei,41[42,June-19]/Arnold@Kanto,51[51,January-30]
 
 ../14(2)-17(10),Kanto(Q)
 ../17(11)-20(7),Kalos(W)
 
-17(8)-20(4),Kanto(Q)/20(11)-21(11),Kanto_Frontier_Conference(W)
-20(7)-23(3),Unova(W)/22(0)-24(8),Unova(W)
-23(4)-26(0),Johto(W)/24(9)-27(5),Pasio(R.U,Flavia)
+17(8)-21(4),Kanto(Q)/20(11)-21(11),Kanto_Frontier_Conference(W)
+21(7)-24(3),Unova(W)/22(0)-24(8),Unova(W)
+24(4)-27(0),Johto(W)/24(9)-27(5),Pasio(R.U,Flavia)
 
 ../27(6)-30(2),Hoenn(W\D,Jerome)
 
-26(6)-29(2),Hoenn(W\D,Arnold)/30(3)-32(11),Sinnoh(W\D,Jerome)
-29(3)-31(11),Sinnoh(W\D,Arnold)/33(0)-35(8),Johto(W)
-32(5)-34(1),Ransei(W)/35(9)-38(5),Ransei(W)
+27(6)-30(2),Hoenn(W\D,Arnold)/30(3)-32(11),Sinnoh(W\D,Jerome)
+30(3)-32(11),Sinnoh(W\D,Arnold)/33(0)-35(8),Johto(W)
+33(5)-36(1),Ransei(W)/35(9)-38(5),Ransei(W)
 
-34(2)-36(10),Kalos(R.U,Junia)/..
-37(2)-38(10),Pasio(W)/..
-38(11)-39(11),Kanto_Contest_Frontier(W)/...
+36(2)-38(10),Kalos(R.U,Junia)/..
+39(2)-41(10),Pasio(W)/..
+41(11)-42(11),Kanto_Contest_Frontier(W)/...
 
-41(5),GoC/39(11),GoC
+44(5),GoC/39(11),GoC
 
 ..................................................................
 
