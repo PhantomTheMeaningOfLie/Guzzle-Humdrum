@@ -74,4 +74,7 @@ Stash JUST THAT'S(Guzzle Humdrum=A Random Tryrantum=Randy Tantrum)(Fruit Juice=S
 
 Stash@7ft6,148kg
 
+   FireFront,                    ,BlazeBlast
+                   Pallet Ridge
+GlowIgnite,                     ,FlameFlash
 {Romelu@Poking Pension=Coating Tension}->Cook@Cerulean{Yvester}
