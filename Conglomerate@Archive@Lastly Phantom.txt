@@ -38,7 +38,7 @@ Cerulean,Quaquaversal
 
 Pistachio(Rimsable)@Grass
 Hazelex(Licoricelane-Ebonypitch,Pewter)@Ground/Rock/Steel,Vermillion@Normal/Fight
-Flexdijon(Stonegarnet,Yellowburst,Unporpoise)@Electric
+Flexdijon(Stonegarnet,Yellowburst,Unporpoise)@Electric,Lavender@Poison
 Navysea(Fruficern,Inksoot,Quaquaversal)@Water/Ice,Cinnabar@Fire
 
 Psychic-Shield Block-Rumsble25,Licoricelane21,Obsidianfront20->36
