@@ -96,3 +96,42 @@ Unova(Eastern->Fiorre/Galar{Adam@Galar+Imani@Fiorre})-Kalos(E)-Hoenn(Western)-Pa
 23 Pokemons=>Mighteyna(dark),Castform(normal/ice/water/fire),Dewgong(ice/psychic),Torkoal(rock/fire),Camerupt(ground/fire),Arctozolt(ice/electric-dragon),Dracovish(water-dragon),Liepard(dark),Beartic(ice/fight),Ursaring(normal),Rhyperior(rock/ground),Delibird(ice/fly),Gilscor(fly/ground),Diggersby(normal/ground),Lopunny(normal/fight),Stakataka(rock/steel),Crustle(rock/bug),Stonejourner(rock),Probopass(rock/steel),Barbaracle(rock/water),Sudowoodo(rock/grass),Venomoth(bug/poison),Mothim(bug/fly),Garbodor(poison/dark),Forretress(bug/steel),353|Crobat(poison/fly),Dragalge(water/poison-dragon),Qwilfish(water/poison),Dustox(bug/poison),Beedril(bug/poison),Stunfisk(ground/steel/electric),Pinsir(bug),Braviary(fly/psychic),Chesnaught(grass/fight),Bewear(normal/fight),Roserade(grass/poison),Octillery(water/fire),Virizion(fight/grass,PL),Clawitzer(water/dark),Basculin(water/dark),Barraskweda(water/dark),Swampert(water/ground),Ludicolo(water/grass/psychic),Kabutops(rock/water),Toxapex(water/poison),Magcargo(rock/fire),Electivire(electric),Emolga(electric/fly),Dedenne(electric/fairy),Masquerain(bug/fly/water),Arquanid(water/bug),Escavalier(bug/steel/fight/psychic),Steelix(ground/rock/steel),Torterra(ground/grass),Wobbuffet(psychic),Girafarig(normal/psychic),Oranguru(normal/psychic),Bruxish(water/psychic),Comfey(fairy),Cradily(rock/grass/water),Bastiodon(rock/steel),Ferrothorn(grass/steel),Sandaconda(ground)
 
 37 Pokemons {Kanto,Pasio},391
+
+
+1-12-2-12(27 Months)
+
+24+3=32Y6M=>21(9)-54(2)->58(5)
+
+18-41[18(3/9)-42(2/8)]
+44-55[44(3/9)-56(2/8)]
+58-63[58(3/9)-64(2/8)]
+66-68[66(3/9)-69(2/8)]
+69@Retire[70(2/8)]
+
+21(9)-23(11),Unova[Kane+Irene]
+Team Sic@Unova[Kane+Irene]
+25(0)-27(2),Kalos[Magnus+Dawn]
+Team Plasma@Kalos[Magnus+Dawn]
+28(3)-30(5),Hoenn[Magnus+Dawn]
+Team Skull@Hoenn[Magnus+Dawn]
+31(6)-33(8),Pasio[Magnus+Dawn]
+Team Aqua@Pasio[Magnus+Dawn]
+34(9)-36(11),Kanto[Magus+Dawn]
+Team Tether@Kanto[Magnus+Dawn]
+38(0)-40(2),Ransei[Magnus+Dawn]
+Team Blaze@Ransei[Magnus+Dawn]
+41(3)-43(5),Sinnoh[Magnus+Dawn]
+Team Sprite@Sinnoh[Magnus+Dawn]
+44(6)-46(8),Johto[Magnus+Dawn]
+Team Rocket@Johto[Magnus+Dawn]
+47(9)-49(11),Alola[Magnus+Dawn]
+Team Pinnacle@Alola[Magnus+Dawn]
+51(0)-53(2),Sevii(L)[Magnus+Dawn]
+Team Yell@Sevii[Magnus+Dawn]
+54(3)-56(5),Fiorre[Magnus+Dawn]
+Team Legend@Fiorre[Magnus+Dawn]
+57(6)-59(8),Galar[Kane+Irene]
+Team Galactic@Galar[Kane+Irene]
+60(9)->Pro Grade
+
+69(0)->Professional Grade
