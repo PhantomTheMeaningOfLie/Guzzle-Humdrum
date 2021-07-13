@@ -108,8 +108,8 @@ Unova(Eastern->Fiorre/Galar{Adam@Galar+Imani@Fiorre})-Kalos(E)-Hoenn(Western)-Pa
 66-68[66(3/9)-69(2/8)]
 69@Retire[70(2/8)]
 
-21(9)-23(11),Unova[Kane+Irene]
-Team Sic@Unova[Kane+Irene]
+21(9)-23(11),Unova[Magnus+Dawn]
+Team Sic@Unova[Magnus+Dawn]
 25(0)-27(2),Kalos[Magnus+Dawn]
 Team Plasma@Kalos[Magnus+Dawn]
 28(3)-30(5),Hoenn[Magnus+Dawn]
@@ -126,12 +126,10 @@ Team Sprite@Sinnoh[Magnus+Dawn]
 Team Rocket@Johto[Magnus+Dawn]
 47(9)-49(11),Alola[Magnus+Dawn]
 Team Pinnacle@Alola[Magnus+Dawn]
-51(0)-53(2),Sevii(L)[Magnus+Dawn]
+51(0)-53(2),Sevii(L,Melody)[Magnus+Dawn]
 Team Yell@Sevii[Magnus+Dawn]
-54(3)-56(5),Fiorre[Magnus+Dawn]
-Team Legend@Fiorre[Magnus+Dawn]
+54(3)-56(5),Fiorre[Kane+Irene]
+Team Legend@Fiorre[Kane+Irene]
 57(6)-59(8),Galar[Kane+Irene]
 Team Galactic@Galar[Kane+Irene]
 60(9)->Pro Grade
-
-69(0)->Professional Grade
