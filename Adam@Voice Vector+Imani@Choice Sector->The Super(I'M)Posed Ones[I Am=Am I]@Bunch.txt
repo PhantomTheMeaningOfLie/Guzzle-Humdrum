@@ -1,10 +1,10 @@
 Adam@Voice Vector+Imani@Choice Sector->The Super(I'M)Posed[I Am=Am I] Ones
 
-1.Tryrantum(rock-dragon,PL),2.Giratina(ghost-dragon,PL),3.Garchomp(ground-dragon,PL),4.Dialga(steel-dragon,PL),5.Zekrom(electric-dragon,PL),6.Zacian(psychic/normal/fairy/steel,PL),7.Regidrago(fairy-dragon,PL),8.Zygarde(ground/dark/psychic-dragon),9.Volcarona(bug/fire,PL),10.Rayquaza(fly-dragon,PL),11.Tropius(grass/fly-dragon,PL),12.Dragonite(fly-dragon,PL),13.Dragapult(ghost-dragon,PL),14.Zarude(grass/fight/dark,PL),15.Guzzlord(ground/dark-dragon,PL),16.Druddigon(rock/fly-dragon),17.Drampa(normal/fairy-dragon),18.Turtonator(fire-dragon,PL),19.Reshiram(fire-dragon,PL),20.Frosmoth(bug/ice,PL),21.Kyurem(ice-dragon,PL),22.Duraludon(electric/steel-dragon,PL),23.Eternatus(poison-dragon,PL),24.Naganadel(poison-dragon,PL),25.Palkia(water-dragon,PL),26.Kingdra(water-dragon,PL),27.Kommo-O(fight-dragon,PL),28.Dracozolt(electric-dragon,PL),29.Arctovish(ice-dragon,PL),30.Altaria(fly/fairy-dragon),31.Noivern(dark/fly-dragon),32.Goodra(psychic-dragon,PL),33.Salamence(fly-dragon,PL),34.Hydreigon(dark-dragon,PL),35.Ultranercozma(dark/psychic/ghost/steel-dragon),36.Aurorus(fairy/ice/rock-dragon),37.Sawk(fight,PL),38.Throh(fight,PL),39.Flygon(ground/fly-dragon,PL),Dracovish(water-dragon),Regigigas(normal,PL),Nidoking/Nidoquen(ground/poison),Arceus(normal,PL),Arctozolt(ice/electric-dragon),Dragalge(water/poison-dragon,PL)->Unova[Kane+Irene],22(9)-24(11)
+1.Tryrantum(rock-dragon,PL),2.Giratina(ghost-dragon,PL),3.Garchomp(ground-dragon,PL),4.Dialga(steel-dragon,PL),5.Zekrom(electric-dragon,PL),6.Zacian(psychic/normal/fairy/steel,PL),7.Regidrago(fairy-dragon,PL),8.Zygarde(ground/dark/psychic-dragon),9.Volcarona(bug/fire,PL),10.Rayquaza(fly-dragon,PL),11.Tropius(grass/fly-dragon,PL),12.Dragonite(fly-dragon,PL),13.Dragapult(ghost-dragon,PL),14.Zarude(grass/fight/dark,PL),15.Guzzlord(ground/dark-dragon,PL),16.Druddigon(rock/fly-dragon),17.Drampa(normal/fairy-dragon),18.Turtonator(fire-dragon,PL),19.Reshiram(fire-dragon,PL),20.Frosmoth(bug/ice,PL),21.Kyurem(ice-dragon,PL),22.Duraludon(electric/steel-dragon,PL),23.Eternatus(poison-dragon,PL),24.Naganadel(poison-dragon,PL),25.Palkia(water-dragon,PL),26.Kingdra(water-dragon,PL),27.Kommo-O(fight-dragon,PL),28.Dracozolt(electric-dragon,PL),29.Arctovish(ice-dragon,PL),30.Altaria(fly/fairy-dragon),31.Noivern(dark/fly-dragon),32.Goodra(psychic-dragon,PL),33.Salamence(fly-dragon,PL),34.Hydreigon(dark-dragon,PL),35.Ultranercozma(dark/psychic/ghost/steel-dragon),36.Aurorus(fairy/ice/rock-dragon),37.Sawk(fight,PL),38.Throh(fight,PL),39.Flygon(ground/fly-dragon,PL),Dracovish(water-dragon),Regigigas(normal,PL),Nidoking/Nidoquen(ground/poison),Arceus(normal,PL),Arctozolt(ice/electric-dragon),Dragalge(water/poison-dragon,PL)->Unova[Paul+Fiona],22(9)-24(11)
 
 Starters->Latias/Latios(psychic-dragon,PL),Pikachu(electric),Pinsir(Bug)
 
-1.Entei+1.Centiskroch,2.Volcanion,3.Chanedlure,4.Delphox,5.Groudon,6.Charizard,7.Emboar,8.Infernape,9.Talonflame,10.Blacephalon,11.Marwak,12.Typhlosion,13.Pyroar,14.Oricorio,15.Salazzle,16.Plusle,17.Houndoom,18.Darmantian,19.Heatran,20.Ninetails,21.Victini,22.Rotom,23.Rapidash,24.Arcanine,25.Ho-Oh,26.Moltres,27.Coalossal,28.Cinderace,29.Magmorter,30.Blaziken,31.Heatmore,32.Torkoal,33.Camerupt,34.Magcargo,35.Castform,36.Octilery,37.Incineroar,38.Wartortle=>Kalos[Magnus+Dawn],25(6)-27(8)
+1.Entei+1.Centiskroch,2.Volcanion,3.Chanedlure,4.Delphox,5.Groudon,6.Charizard,7.Emboar,8.Infernape,9.Talonflame,10.Blacephalon,11.Marwak,12.Typhlosion,13.Pyroar,14.Oricorio,15.Salazzle,16.Plusle,17.Houndoom,18.Darmantian,19.Heatran,20.Ninetails,21.Victini,22.Rotom,23.Rapidash,24.Arcanine,25.Ho-Oh,26.Moltres,27.Coalossal,28.Cinderace,29.Magmorter,30.Blaziken,31.Heatmore,32.Torkoal,33.Camerupt,34.Magcargo,35.Castform,36.Octilery,37.Incineroar,38.Wartortle=>Kalos[Paul+Fiona],25(6)-27(8)
 
 1.Kingler+1.Toxicroak,2.Tentacruel,3.Golisopod,4.Lapras,5.Dhelmise+1.Suicune,2.Pelipper,3.Floatzel,4.Lumineon,5.Huntail,6.Gorebyss,7.Primarina,8.Seismitoad,9.Sharpedo,10.Kaledo,11.Feraligator,12.Crawdaunt,13.Jellicent,14.Phione,15.Cursola,16.Grappolct,17.Samurott,18.Elektross,19.Inteleon,20.Kyogre,21.Manaphy,22.Silvally,23.Minum,24.Urshifu,25.Mantine,26.Lugia,27.Milotic,28.Tapu Fini,29.Alomomola,30.Nihilego,31.Drednaw,32.Greninja,33.Slowbro=>Hoenn[Magnus+Dawn]->28(3)-30(5)
 
@@ -21,8 +21,8 @@ Starters->Latias/Latios(psychic-dragon,PL),Pikachu(electric),Pinsir(Bug)
 1.Yveltal,2.Togekiss,3.Whimsicott,4.Braviary+1.Chesnaught,2.Virizion,3.Celebi,4.Bayleaf,5.Sceptile,6.Exeggutter,7.Gourgeist,8.Serperior,9.Cherrim,10.Lurantis,11.Shiinotic,12.Shiftree,13.Trevenant,14.Tapu Bulu,15.Rillaboom,16.Florges+1.Comfey,2.Aromatisse,3.Xerneas,4.Grimmsnarl,5.Gardevoir,6.Hatterene,7.Mimikyu,8.Tapu Lele,9.Alcreamie,10.Clefable,11.Slurpuff,12.Meowstic,13.Chimecho,14.Mewtwo,15.Unown,16.Beeheeyem,17.Alakazam,18.Uxie,19.Medicham=>Alola[Magnus+Dawn]->44(9)-45(11)
 
 1.Gallade,2.Lunala,3.Reuniclas,4.Hypno+1.Wobbuffet,2.Mesprit,3.Azelf,4.Cresselia,5.Musharna,6.Hoopa,7.Deoxys,8.Malamar,9.Grumpig,10.Mineshao,11.Pangoro,12.Scrafty,13.Passimian,14.Sableye,15.Thievul,16.Zoroark,17.Mighteyna,18.Liepard,19.Spiritomb+1.Darkrai,2.Absol,3.Marshadow,4.Banette,5.Falinks,6.Mismagius,7.Polteageist,8.Confragigus,9.Dusknoir,10.Spectrier,11.Primape,12.Hariyama,13.Hitmonchan,14.Hitmonlee,15.Hitmontop,16.Machamp=>Sevii[Magnus+Dawn]->46(6)-48(8)
-Galar@49(3)-51(5)->[John+Melody]
-Fiorre@52(0)-54(2)->[John+Melody]
+Galar@49(3)-51(5)->[Magnus+Dawn]
+Fiorre@52(0)-54(2)->[Magnus+Dawn]
 54(3)->Pro Grade
 
 Unova(Eastern->Fiorre/Galar{Adam@Galar+Imani@Fiorre})-Kalos(E)-Hoenn(Western)-Pasio(E)-Kanto(E)-Ransei(W)-Sinnoh(W)-Johto(E)-Alola(W)-Sevii(W)
@@ -121,5 +121,5 @@ Unova(Eastern->Fiorre/Galar{Adam@Galar+Imani@Fiorre})-Kalos(E)-Hoenn(Western)-Pa
 17(0)-17(11),Team Rocket@Sinnoh[Kane+Irene]
 18(0)-18(11),Team Pinnacle@Pasio[Kane+Irene]
 19(0)-19(11),Team Pinnacle@Alola[Kane+Irene]
-20(0)-20(11),Team Legend@Fiorre[Paul+Fiona]
-21(0)-21(11),Team Galactic@Galar[Paul+Fiona]
+20(0)-20(11),Team Legend@Fiorre[David+Zara]
+21(0)-21(11),Team Galactic@Galar[David+Zara]
