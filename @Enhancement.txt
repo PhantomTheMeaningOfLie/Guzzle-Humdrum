@@ -1078,7 +1078,7 @@ Conrad/Gemma
 /33(2)-35(5),Johto
 /35(9)-,Johto@Ground_Type Gym Leader
 
-Mr Seth Sataut@Referee+Mrs Fiesta Rifdep Sataut@Referee
+Mr Bix Sataut@Referee+Mrs Fiesta Rifdep Sataut@Referee
 15(0)-17(4),Kanto/15(0)-17(4),Kanto
 17(8)-19(11),Johto/17(8)-19(11),Johto
 20(6)-41(11),Referee/20(6)-41(11),Referee
@@ -2715,7 +2715,7 @@ Dawn,28[29,March-2]@Sinnoh,Mrs Dawn Berlitz Glenol
 
 Fly :
 
-Ho-Oh,Moltres,Thundurus,Lugia,Articuno,Zapdos,Aerodactyl,Celesteela,Golurk,Volcarona,Frosmoth,Scolipede,Ariados,Shaymin,Tropius
+Ho-Oh,Moltres,Thundurus,Lugia,Articuno,Zapdos,Aerodactyl,Celesteela,Golurk,Volcarona,Frosmoth,Scolipede,Ariados,Cherruvuemin,Tropius
 
 Fire :
 
@@ -4450,7 +4450,7 @@ just like the clouds..roaming around without direction but conservation/look goe
 (Banette,Ghost-7,PL-17)>20.(Beeheeyem,Psychic-17,PL-18)>21.(Landorus,Ground-4/Fly-18,PL-19)>22.(Lucario,Steel-12/Psychic-18/Dark-8/Fight-16,PL-20)>23.Bronzong(Steel-13/Psychic-18)>24.(Registeel,Steel-14,PL-21)>25.(Melmetal,Steel-15,PL-22)>26.Pyroar(Fire-9/Normal-6)>27.Mandibuzz(Dark-9/Fly-20)>28.Skuntank(Poison-8/Dark-10)>29.Rillaboom(Grass-12/Dark,PL-23)>30.Accelgor(Bug-10/Dark-11)>31.Claydol(Ground-6/Psychic-19)>32.Donphan(Ground-7)>33.(Tyranitar,Rock-1/Dark-12,PL-24)>34.(Solgaleo,Steel-16/Psychic-20,PL-25)>35.Aegislash(ghost/steel)>36.Swoobat(Fly/Paychic)>37.Drifblim(Ghost/Fly)>38.Corviknight(Fly/Steel/Dark/Psychic)>39.Skarmory(steel/fly)>40.Perrserker(steel/ghost)>40
 
 
-1.Sceptile(Grass-13)>2.Crawdaunt(Water-21/Dark-13)>3.Glalie(Ghost-9/Ice-6)>4.Jellicent(Water-22/Ghost-10)>5.(Magearna,Steel-17/Fairy-9,PL-26)>6.Falinks(ghost/fight)>7.(Jirachi,Steel-18/Psychic-23/Fairy-11,PL-28)>8.Delphox(Fire-10/Psychic-24)>9.(Meloetta,Normal-7/Fight-17/Psychic-25,PL-29)>10.Zacian(Normal-8/Psychic-26/Steel/Fairy,PL-30)>11.Granbull(Normal-9/Fight-18/Fairy-12)>12.(Regice,Ice-7,PL-31)>13.Kartana(Grass-14/Electric-11/Steel-19)>14.Exeggutter(Grass-15/Psychic-27)>15.Gourgeist(Grass-16/Ghost-11)>16.Alakazam(Psychic-28,PL-32)>17.Passimian(Fight/Dark)>18.Audino(Normal-10/Fairy-13,PL)>19.Obstagoon(Normal-11/Dark-14,PL)>20.(Phione,Water-23,PL-33)>21.Decidueye (Grass-17/Ghost-12/Fly-22)>22.Ampharos(Electric-12/Psychic-14,PL)>23.Electrod(Electric-13/Psychic-30)>24.(Uxie,Psychic-31,PL-34)>25.(Shaymin,Grass-18/Fly-23,PL-35)>26.Ribombee(Bug-11/Fairy-15)>27.Medicham(Psychic-33/Fight-20)>28.Oricorio(Ghost-13/Fire-11/Electric-14/Psychic-34/Fly-24)>29.Amoonguss(poison/grass/fairy)>30.Sableye(Ghost-15/Dark-16)>31.Gallade(psychic/fight)>32.Serperior(Grass-19/Psychic,PL-37)>33.Cherrim(Grass-20/Fairy)>34.Lurantis(Grass-21/Psychic,PL-38)>35.Shiinotic(fairy/grass)>35
+1.Sceptile(Grass-13)>2.Crawdaunt(Water-21/Dark-13)>3.Glalie(Ghost-9/Ice-6)>4.Jellicent(Water-22/Ghost-10)>5.(Magearna,Steel-17/Fairy-9,PL-26)>6.Falinks(ghost/fight)>7.(Jirachi,Steel-18/Psychic-23/Fairy-11,PL-28)>8.Delphox(Fire-10/Psychic-24)>9.(Meloetta,Normal-7/Fight-17/Psychic-25,PL-29)>10.Zacian(Normal-8/Psychic-26/Steel/Fairy,PL-30)>11.Granbull(Normal-9/Fight-18/Fairy-12)>12.(Regice,Ice-7,PL-31)>13.Kartana(Grass-14/Electric-11/Steel-19)>14.Exeggutter(Grass-15/Psychic-27)>15.Gourgeist(Grass-16/Ghost-11)>16.Alakazam(Psychic-28,PL-32)>17.Passimian(Fight/Dark)>18.Audino(Normal-10/Fairy-13,PL)>19.Obstagoon(Normal-11/Dark-14,PL)>20.(Phione,Water-23,PL-33)>21.Decidueye (Grass-17/Ghost-12/Fly-22)>22.Ampharos(Electric-12/Psychic-14,PL)>23.Electrod(Electric-13/Psychic-30)>24.(Uxie,Psychic-31,PL-34)>25.(Cherruvuemin,Grass-18/Fly-23,PL-35)>26.Ribombee(Bug-11/Fairy-15)>27.Medicham(Psychic-33/Fight-20)>28.Oricorio(Ghost-13/Fire-11/Electric-14/Psychic-34/Fly-24)>29.Amoonguss(poison/grass/fairy)>30.Sableye(Ghost-15/Dark-16)>31.Gallade(psychic/fight)>32.Serperior(Grass-19/Psychic,PL-37)>33.Cherrim(Grass-20/Fairy)>34.Lurantis(Grass-21/Psychic,PL-38)>35.Shiinotic(fairy/grass)>35
 
 1.Lunala(ghost/psychic,PL)>2.Grimmsnarl(PL,Fairy/dark)>3.Cursola(water/rock/ghost)>4.Orbeetle(bug/psychic,PL)>5.Grappolct(fight/water,PL)>6.Pincurchin(electric/ghost)>7.Runerigus(ghost/ground,PL)>8.Thievul(dark,PL)>9.Reuniclas(Psychic)>10.Gardevoir(psychic/fairy)>11.Samurott(ground/water/dark)>12.Hypno(psychic,PL)>13.Tapu Koko(electric/fairy,PL)>14.Zoroark(dark,PL)>15.Polteageist(ghost)>16.Hatterene(psychic/fairy,PL)>17.Mesprit(psychic,PL)>18.Azelf(psychic,PL)>19.Thundurus(electric/fly,PL)>20.Cresselia(psychic,PL)>21.Mimikyu(ghost/fairy)>22.Tapu Lele(psychic/fairy,PL)>23.Alcreamie(fairy,PL)>23
 
@@ -6512,7 +6512,7 @@ Rhea(frown) : "and the 2nd youngest version to both these two has started high s
 Ingemar : "just the way precision works compeer hallow denominations,specifications never hi(all un..,..Incentive Overdose,all un..)"
 Rhea(frown) : "and the latest version is reported to be twitched to the core(all un..)"
 Ingemar : "well it's most natural for obsession over resolvable experiences rather than absorbing encore(all un..,Baby Gyarados)"
-Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Seth Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
+Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Bix Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
 Ingemar : "existence you're my(all un..)"
 Rhea(frown) : "so to you they are out of reach of existence only conscious confusion"
 Ingemar : "foundational skills on complexity control for opinion's effective metronome(all un..)"
@@ -7173,7 +7173,7 @@ Rhea(frown) : "and the 2nd youngest version to both these two is in high school 
 Ingemar : "just the way precision works compeer hallow denominations,specifications never hi(all un..,..Incentive Overdose,all un..)"
 Rhea(frown) : "and the latest version is reported to be twitched to the core(all un..)"
 Ingemar : "well it's most natural for obsession over resolvable experiences rather than absorbing encore(all un..,Baby Gyarados)"
-Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Seth Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
+Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Bix Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
 Ingemar : "existence you're my(all un..)"
 Rhea(frown) : "so to you they are out of reach of existence only conscious confusion"
 Ingemar : "foundational skills on complexity control for opinion's effective metronome(all un..)"
@@ -7638,7 +7638,7 @@ Rhea(frown) : "and the 2nd youngest version to both these two is in high school 
 Ingemar : "just the way precision works compeer hallow denominations,specifications never hi(all un..,..Incentive Overdose,all un..)"
 Rhea(frown) : "and the latest version is reported to be twitched to the core(all un..)"
 Ingemar : "well it's most natural for obsession over resolvable experiences rather than absorbing encore(all un..,Baby Gyarados)"
-Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Seth Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
+Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Bix Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
 Ingemar : "existence you're my(all un..)"
 Rhea(frown) : "so to you they are out of reach of existence only conscious confusion"
 Ingemar : "foundational skills on complexity control for opinion's effective metronome(all un..)"
@@ -7826,7 +7826,7 @@ Rhea(frown) : "and the 2nd youngest version to both these two is in high school 
 Ingemar : "just the way precision works compeer hallow denominations,specifications never hi(all un..,..Incentive Overdose,all un..)"
 Rhea(frown) : "and the latest version is reported to be twitched to the core(all un..)"
 Ingemar : "well it's most natural for obsession over resolvable experiences rather than absorbing encore(all un..,Baby Gyarados)"
-Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Seth Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
+Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Bix Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
 Ingemar : "existence you're my(all un..)"
 Rhea(frown) : "so to you they are out of reach of existence only conscious confusion"
 Ingemar : "foundational skills on complexity control for opinion's effective metronome(all un..)"
@@ -8012,7 +8012,7 @@ Rhea(frown) : "and the 2nd youngest version to both these two is in high school 
 Ingemar : "just the way precision works compeer hallow denominations,specifications never hi(all un..,..Incentive Overdose,all un..)"
 Rhea(frown) : "and the latest version is reported to be twitched to the core(all un..)"
 Ingemar : "well it's most natural for obsession over resolvable experiences rather than absorbing encore(all un..,Baby Gyarados)"
-Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Seth Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
+Rhea(frown) : "i see but a Mr Wayne Mukhareb,a Mr Bix Sataut and a Ms Irene Mufas is reported to be inseperable to these three in the given order of temporality why(all un..)"
 Ingemar : "existence you're my(all un..)"
 Rhea(frown) : "so to you they are out of reach of existence only conscious confusion"
 Ingemar : "foundational skills on complexity control for opinion's effective metronome(all un..)"

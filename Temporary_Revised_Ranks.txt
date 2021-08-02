@@ -801,7 +801,7 @@ Jirah,[Biming,Ivana,Trevor,Wendy]
 
 Johto(Imani,Adam) :
 
-.,.,Paul-Yagmur,Payam-Goran,Deontay-Goy,Errapel-Adam,Decha-Adam,Melody(SF)|
+.,.,Paul-Yagmur,Payam-Goran,Deontay-Seth,Errapel-Adam,Decha-Adam,Melody(SF)|
 .,{Gary-Adam},.,Seymour-Imani,Siluca-Gus,Cheng-Imani,Freya-Itzel,Drizzle-Guang,Melody(R.U)|
 
 Hoenn (Imani) :
@@ -917,7 +917,7 @@ Lance,67[68->2nd Half]
 *=Adam
 ^/^^=Imani
 ..................................
-{Mr Genkai Oak(Column Jargon=Offshoot Trap)+Mrs Blossom Ketchum Oak(Slalom Seldom=Parachute Map)}=The Feathered Ones/Guang(Machine Learning=Correct Tactics)+Itzel(Cassette Capture){Correct Capture}/Gus(Tracing Howling=Format Optics)+Yagmur(Asset Future){Format Future}[{Guang&Gus=Forgone Claps,Itzel&Yagmur=Fortune Haps}]/Guang(Curly Mention=Discuss-Gap)+Poppy(Incentive Overdose){The Pedantic Ones}/Goy(Colony Monogram=Look-only-At)+Mehadi(Baby Gyarados=Baby-per-Ohs){The Darkened Ones}
+{Mr Genkai Oak(Column Jargon=Offshoot Trap)+Mrs Blossom Ketchum Oak(Slalom Seldom=Parachute Map)}=The Feathered Ones/Guang(Machine Learning=Correct Tactics)+Itzel(Cassette Capture){Correct Capture}/Gus(Tracing Howling=Format Optics)+Yagmur(Asset Future){Format Future}[{Guang&Gus=Forgone Claps,Itzel&Yagmur=Fortune Haps}]/Guang(Curly Mention=Discuss-Gap)+Poppy(Incentive Overdose){The Pedantic Ones}/Seth(Colony Monogram=Look-only-At)+Mehadi(Baby Gyarados=Baby-per-Ohs){The Darkened Ones}
 
 Adam Ramirez,41[42,February-1]@Galar@Taupelimed@Galar+Imani Benitez,41[February-2] Ramirez@Rimsable@Kanto{The Superimposed/Superposed Ones{Voice Vector+Choice Sector}}
 

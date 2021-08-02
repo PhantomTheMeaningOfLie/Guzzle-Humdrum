@@ -140,7 +140,7 @@ Mr Wayne Mukhareb@Electric Specialist+Mrs Ruth Lansburg Mukhareb@Grass Specialis
 34(0)-36(8),Johto
 37(3)-,Specialists
 
-Mr Seth Sataut@Normal/Fight+Mrs Fiesta Rifdev Sataut@Poison Specialist
+Mr Bix Sataut@Normal/Fight+Mrs Fiesta Rifdev Sataut@Poison Specialist
 
 17(8)-21(4),Sinnoh
 21(5)-24(1),Ransei
