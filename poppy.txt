@@ -1,7 +1,7 @@
 poppy,mallow->
 Itzel,Yagmur
 Guang,Gus
-Phuoc,Seth->mulu
+Kazuhiro,Seth->mulu
 
 Romelu->Romu
 
