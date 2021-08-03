@@ -801,7 +801,7 @@ Jirah,[Biming,Ivana,Trevor,Wendy]
 
 Johto(Imani,Adam) :
 
-.,.,Paul-Yagmur,Payam-Goran,Deontay-Seth,Errapel-Adam,Decha-Adam,Melody(SF)|
+.,.,Paul-Yagmur,Payam-Phuoc,Deontay-Seth,Errapel-Adam,Decha-Adam,Melody(SF)|
 .,{Gary-Adam},.,Seymour-Imani,Siluca-Gus,Cheng-Imani,Freya-Itzel,Drizzle-Guang,Melody(R.U)|
 
 Hoenn (Imani) :
