@@ -405,13 +405,13 @@ Anaya(Kalos)/Magnolia(Kalos)
 23(11,)-26(7,),Kanto(W)/21(8,)-24(10,),Kalos Frontier(W)
 26(10,)-29(6,),Sinnoh(W,Klaus)/25(1,)-27(9,),Hoenn(^)
 29(10,)-30(10,),Kalos Frontier(W)/27(11,)-30(7,),Kalos(R.U,Bartholomew)
-31(0,)-33(8,),Kalos(R.U,Chigusa)/31(0,)-33(8,),Kanto(W,Mallow)
+31(0,)-33(8,),Kalos(R.U,Chigusa)/31(0,)-33(8,),Kanto(W,Mehadi)
 33(10,)-36(6,),Unova(^)/33(11,)-36(7,),Johto(W)
 37(0,)-38(9,),Hoenn(W)/36(10,)-39(6,),Sinnoh(W)
 
 40(10,),HoF/41(0,),HoF
 
-Klaus(Kanto)/Mallow(Kanto)
+Klaus(Kanto)/Mehadi(Kanto)
 
 17(5,)-19(1,),Pasio(W)/17(3,)-19(11,),Sinnoh(W)
 19(2,)-21(10,),Johto(W)/20(0,)-21(8,),Ransei(W)
@@ -430,7 +430,7 @@ Artemus(Sinnoh)/Abriana(Sinnoh)
 18(2,)-20(10,),Hoenn(W)/18(3,)-20(11,),Hoenn(W)
 21(0,)-23(8,),Kanto(W)/21(1,)-23(9,),Kanto(W)
 23(11,)-26(7,),Kalos(R.U,Klaus)/24(0,)-26(8,),Kalos(W)
-27(0,)-29(8,),Sinnoh(W,Cheng)/26(9,)-29(5,),Johto(R.U,Mallow)
+27(0,)-29(8,),Sinnoh(W,Cheng)/26(9,)-29(5,),Johto(R.U,Mehadi)
 30(0,)-31(8,),Pasio(W)/30(0,)-31(8,),Ransei(W,Errapel)
 31(11,)-33(7,),Ransei(W)/31(11,)-33(7,),Pasio(W)
 33(10,)-36(6,),Unova(*)/33(10,)-36(6,),Unova(^)
@@ -768,7 +768,7 @@ Unova@21
 Kalos@20([Percy]+Samantha,{Nigel},Kalique+Krystal,Mikhail+Celmira,Biming+Anaya,Toshib+Onora,Bonaventura+Sulamita,Douglas+Magnolia,Seymour+Merlot,Redzep,Worapoj)
 
 Kanto@18
-(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>Klaus+Mallow,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],{Satoshi@Electric_Rasingria}/Roxanne@Conglomerate,Frantz+Homa,{Tanguy}+Lusamine,(Cuneyt)/Vovam,Sakura,Simon,Lucent/(Theresa),(Sasha)/Potentia)
+(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>Klaus+Mehadi,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],{Satoshi@Electric_Rasingria}/Roxanne@Conglomerate,Frantz+Homa,{Tanguy}+Lusamine,(Cuneyt)/Vovam,Sakura,Simon,Lucent/(Theresa),(Sasha)/Potentia)
 
 Sinnoh@17([Jason],Wilhelm+Talullah,Giourkas,Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimmer+Kulap,Blaze+Prue,Trevor)
 
@@ -824,7 +824,7 @@ Kanto Frontier{128-Cup Format}(Imani) :
 
 Kanto Frontier{128-Cup Format}(Adam) :
 
-[Mallow,Potentia,Sirichai],Mr Stuart McShin
+[Mehadi,Potentia,Sirichai],Mr Stuart McShin
 
 Sinnoh(Adam) : 
 
@@ -917,7 +917,7 @@ Lance,67[68->2nd Half]
 *=Adam
 ^/^^=Imani
 ..................................
-{Mr Genkai Oak(Column Jargon=Offshoot Trap)+Mrs Blossom Ketchum Oak(Slalom Seldom=Parachute Map)}=The Feathered Ones/Guang(Machine Learning=Correct Tactics)+Itzel(Cassette Capture){Correct Capture}/Gus(Tracing Howling=Format Optics)+Yagmur(Asset Future){Format Future}[{Guang&Gus=Forgone Claps,Itzel&Yagmur=Fortune Haps}]/Guang(Curly Mention=Discuss-Gap)+Poppy(Incentive Overdose){The Pedantic Ones}/Seth(Colony Monogram=Look-only-At)+Mehadi(Baby Gyarados=Baby-per-Ohs){The Darkened Ones}
+{Mr Genkai Oak(Column Jargon=Offshoot Trap)+Mrs Blossom Ketchum Oak(Slalom Seldom=Parachute Map)}=The Feathered Ones/Guang(Machine Learning=Correct Tactics)+Itzel(Cassette Capture){Correct Capture}/Gus(Tracing Howling=Format Optics)+Yagmur(Asset Future){Format Future}[{Guang&Gus=Forgone Claps,Itzel&Yagmur=Fortune Haps}]/Guang(Curly Mention=Discuss-Gap)+Poppy(Incentive Overdose){The Pedantic Ones}/Seth(Colony Monogram=Look-only-At)+Mallow(Baby Gyarados=Baby-per-Ohs){The Darkened Ones}
 
 Adam Ramirez,41[42,February-1]@Galar@Taupelimed@Galar+Imani Benitez,41[February-2] Ramirez@Rimsable@Kanto{The Superimposed/Superposed Ones{Voice Vector+Choice Sector}}
 

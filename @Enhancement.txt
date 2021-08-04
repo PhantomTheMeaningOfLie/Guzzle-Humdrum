@@ -340,13 +340,13 @@ Anaya(Kalos)/Magnolia(Kalos)
 23(9)-26(5),Kanto(W)/21(6)-24(8),Kalos Frontier(W)
 26(8)-29(4),Sinnoh(W,Kiawe)/24(11)-27(7),Hoenn(^)
 29(8)-30(8),Kalos Frontier(W)/27(9)-30(5),Kalos(R.U,Bartholomew)
-30(10)-33(6),Kalos(R.U,Chigusa)/30(10)-33(6),Kanto(W,Mallow)
+30(10)-33(6),Kalos(R.U,Chigusa)/30(10)-33(6),Kanto(W,Mehadi)
 33(8)-36(4),Unova(^)/33(9)-36(5),Johto(W)
 36(10)-38(7),Hoenn(W)/36(8)-39(4),Sinnoh(W)
 
 40(8),HoF/40(10),HoF
 
-Kiawe(Kanto)/Mallow(Kanto)
+Kiawe(Kanto)/Mehadi(Kanto)
 
 17(3)-18(11),Pasio(W)/17(1)-19(9),Sinnoh(W)
 19(0)-21(8),Johto(W)/19(10)-21(6),Ransei(W)
@@ -365,7 +365,7 @@ Artemus(Sinnoh)/Abriana(Sinnoh)
 18(0)-20(8),Hoenn(W)/18(1)-20(9),Hoenn(W)
 20(10)-23(6),Kanto(W)/20(11)-23(7),Kanto(W)
 23(9)-26(5),Kalos(R.U,Kiawe)/23(10)-26(6),Kalos(W)
-26(10)-29(6),Sinnoh(W,Cheng)/26(7)-29(3),Johto(R.U,Mallow)
+26(10)-29(6),Sinnoh(W,Cheng)/26(7)-29(3),Johto(R.U,Mehadi)
 29(10)-31(6),Pasio(W)/29(10)-31(6),Ransei(W,Errapel)
 31(9)-33(5),Ransei(W)/31(9)-33(5),Pasio(W)
 33(8)-36(4),Unova(*)/33(8)-36(4),Unova(^)
@@ -703,7 +703,7 @@ Unova@21
 Kalos@18([Percy]+Samantha,{Nigel},Kalique+Tansanee,Mikhail+Celmira,Biming+Anaya,Toshib+Onora,Bonaventura+Sulamita,Douglas+Magnolia,Seymour+Merlot,Redzep)
 
 Kanto@20
-(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>,Kiawe+Mallow,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],{Satoshi@Electric_Rasingria}/Roxanne@Conglomerate,Wilhelm+Talullah,{Frantz}+Homa,Tanguy+Lusamine,(Cuneyt)/Vovam,Sakura,Simon,Lucent/{Theresa},{Sasha}/Potentia)
+(<Ruben@Water_Breeder_Cerulean/{Galaxy@Conglomerate}>,Kiawe+Mehadi,<[Sirichai@Conglomerate]>,Ritchie@Conglomerate,Clyde+Scarlett,[Stuart McShin],{Satoshi@Electric_Rasingria}/Roxanne@Conglomerate,Wilhelm+Talullah,{Frantz}+Homa,Tanguy+Lusamine,(Cuneyt)/Vovam,Sakura,Simon,Lucent/{Theresa},{Sasha}/Potentia)
 
 Sinnoh@14([Jason],Artemus+Abriana,{Jack}+Dorothy,Joel+Whitney,Lasha+Yvonne,Glimmer+Kulap,Blaze+Prue,Trevor)
 
@@ -751,7 +751,7 @@ Ebtissam,Sapphire,Constance,Arsene,Alastair,Lusamine
 
 Kanto Frontier(Genkai) : 
 
-Kiawe,Mallow,Frantz,Homa,Sirichai,Stuart McShin
+Kiawe,Mehadi,Frantz,Homa,Sirichai,Stuart McShin
 
 Sinnoh(Genkai) : 
 
